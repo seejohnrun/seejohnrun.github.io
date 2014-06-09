@@ -16,9 +16,16 @@ meta:
   _wp_old_slug: js-coverage
   dsq_thread_id: '589030417'
 ---
-A coverage tool is something that I've always wanted for my Node.js development. I certainly don't depend on one, but I like when a coverage tool can point out things I've obviously missed tests for.
 
-Tools like this are tough in Javascript, because our tracing ability is limited. Yesterday, though   two new test runners were added for mocha, my <a href="http://seejohncode.com/2012/01/13/javascript-testing-with-mocha">favorite JS testing framework</a>. They are <code>js-cov</code> and <code>html-cov</code>. They work really well, and you should definitely give them a look.
+A coverage tool is something that I've always wanted for my Node.js development.
+I certainly don't depend on one, but I like when a coverage tool can point out
+things I've obviously missed tests for.
+
+Tools like this are tough in Javascript, because our tracing ability is limited.
+Yesterday, though   two new test runners were added for mocha, my
+[favorite JS testing framework]({% post_url 2012-01-13-javascript-testing-with-mocha %}).
+They are `js-cov` and `html-cov`. They work really well, and you should definitely give
+them a look.
 
 Wanting to know how they worked, I dug a bit deeper, and quickly found that they depend on output for <a href="http://siliconforks.com/jscoverage/">jscoverage</a> to work. What <code>jscoverage</code> does, is create an instrumented copy of your code, by breaking it up and inserting lines to track counters of what was touched during execution, and how many times. Imagine we had this simple code (file:example.js):
 

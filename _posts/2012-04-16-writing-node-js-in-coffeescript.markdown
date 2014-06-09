@@ -28,22 +28,30 @@ meta:
   dsq_thread_id: '652301219'
   _yoast_wpseo_linkdex: '0'
 ---
-Now I know I've <a href="http://www.seejohncode.com/2011/02/13/coffeescript/">spoken slightly poorly of CoffeeScript</a> in the past, but I've been getting into it a bit more recently on some small libraries I've been writing for Node.  Turns out, it's really easy to write parts of your Node applications in CoffeeScript and have them automatically compiled for you.
+
+Now I know I've [spoken slightly poorly of CoffeeScript]({% post_url 2011-02-13-coffeescript %})
+in the past, but I've been getting into it a bit more recently on some small
+libraries I've been writing for Node.  Turns out, it's really easy to write
+parts of your Node applications in CoffeeScript and have them automatically
+compiled for you.
 
 First, add "coffee-script" to your dependencies in package.json (definitely specify a real version instead of using *):
-<pre>{
+
+```
+{
   ...
   "dependencies": {
     "coffee-script": "*"
   }
-  ... 
-}</pre>
+  ...
+}
+```
+
 And then, any time you need a file that's written in CoffeeScript, just make sure you have require "coffee-script" before requiring it:
 
-{% highlight js %}
+``` js
 require("coffee-script");
 require("./something_in_coffeescript"); // something_in_coffeescript.coffee
-...
-{% endhighlight %}
+```
 
 And off you go!

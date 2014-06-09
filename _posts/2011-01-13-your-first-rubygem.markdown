@@ -72,6 +72,9 @@ Now the matter of pushing it to RubyGems, a simple <code>gem push reverser-0.0.1
 
 <hr />
 
-Of course you're writing a bunch of tests along the way, so I definitely recommend reading <a href="http://seejohncode.com/2010/06/17/rake-rspec-gemcutter">an article I wrote about Rakefiles</a> and how I use them to automate the whole process and make sure my tests always get run and my tags always get created in git.
+Of course you're writing a bunch of tests along the way, so I definitely recommend reading
+[an article I wrote about Rakefiles]({% post_url 2010-06-17-rake-rspec-gemcutter %})
+and how I use them to automate the whole process and make
+sure my tests always get run and my tags always get created in git.
 
 Check out my <a href="https://github.com/seejohnrun">GitHub projects</a> for more examples, and get that gem out!

@@ -44,4 +44,4 @@ that way - much nicer for upgrades too):
 git -> /usr/local/Cellar/git/1.7.9.6/etc/bash_completion.d/git-completion.bash
 ```
 
-If you like this - read more of [my dotfiles](http://www.seejohncode.com/2012/02/13/my-dotfiles/).
+If you like this - read more of [my dotfiles]({% post_url 2012-02-13-my-dotfiles %}).
