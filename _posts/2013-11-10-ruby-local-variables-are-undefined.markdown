@@ -6,8 +6,6 @@ author: john
 all_set: true
 date: '2013-11-10 09:30:32 -0500'
 date_gmt: '2013-11-10 14:30:32 -0500'
-categories:
-- Code
 ---
 
 I've blogged about this in the past, but I'm bringing it back here because I

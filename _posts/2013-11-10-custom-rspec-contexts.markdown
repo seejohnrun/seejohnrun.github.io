@@ -7,8 +7,6 @@ all_set: true
 author: john
 date: '2013-11-10 15:18:58 -0500'
 date_gmt: '2013-11-10 20:18:58 -0500'
-categories:
-- Code
 ---
 
 Sometimes it can be useful to have custom RSpec contexts.  In a recent project,

@@ -6,8 +6,6 @@ author: john
 all_set: true
 date: '2014-01-26 20:03:03 -0500'
 date_gmt: '2014-01-27 01:03:03 -0500'
-categories:
-- Tools
 ---
 
 You may know that you can execute commands from inside of vim, with a vim command:

@@ -6,8 +6,6 @@ author: john
 all_set: true
 date: '2013-06-13 10:49:40 -0400'
 date_gmt: '2013-06-13 14:49:40 -0400'
-categories:
-- Code
 tags:
 - ruby
 ---

@@ -6,8 +6,6 @@ author: john
 all_set: true
 date: '2013-11-11 09:57:57 -0500'
 date_gmt: '2013-11-11 14:57:57 -0500'
-categories:
-- Tools
 ---
 
 I've spent years customizing my `vim` configuration.  My original configuration
