@@ -59,7 +59,7 @@ end
 
 # Apply
 SimpleCov.start do
-  add_filter(&amp;filter)
+  add_filter(&filter)
 end
 {% endhighlight %}
 

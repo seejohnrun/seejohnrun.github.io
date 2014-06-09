@@ -16,7 +16,7 @@ meta:
   dsq_thread_id: '622524248'
   _yoast_wpseo_linkdex: '0'
 ---
-If you're doing anything with natural language processing in Node.js, <a href="https://github.com/NaturalNode/natural">natural</a> is a great library that has some common algorithms all in one place.  They have everything from distance algorithms to phonetic-similarity algorithms like Soundex &amp; Metaphone.
+If you're doing anything with natural language processing in Node.js, <a href="https://github.com/NaturalNode/natural">natural</a> is a great library that has some common algorithms all in one place.  They have everything from distance algorithms to phonetic-similarity algorithms like Soundex & Metaphone.
 
 I just added a <a href="http://en.wikipedia.org/wiki/Dice's_coefficient">Dice's Coefficient</a> implementation today, and its really easy to use:
 

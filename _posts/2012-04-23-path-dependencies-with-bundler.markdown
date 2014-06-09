@@ -11,7 +11,7 @@ tags:
 ---
 
 I'm a big fan of splitting up applications into separate pieces whenever
-possible.  This is especially convenient in Ruby with tools like bundler &amp;
+possible.  This is especially convenient in Ruby with tools like bundler &
 rubygems to make modularization a breeze.
 
 Often when I turn something into a gem, I want to work on my application and its

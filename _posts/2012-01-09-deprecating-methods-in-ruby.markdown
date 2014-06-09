@@ -35,9 +35,9 @@ module Deprecated
   # @param [Symbol] replacement - name of method to (alias)
   def deprecated_alias(name, replacement)
     # Create a wrapped version
-    define_method(name) do |*args, &amp;block|
+    define_method(name) do |*args, &block|
       warn "IceCube: ##{name} deprecated (please use ##{replacement})"
-      send replacement, *args, &amp;block
+      send replacement, *args, &block
     end
   end
 
@@ -49,13 +49,13 @@ module Deprecated
     old_name = :"#{name}_without_deprecation"
     alias_method old_name, name
     # And replace it with a wrapped version
-    define_method(name) do |*args, &amp;block|
+    define_method(name) do |*args, &block|
       if replacement
         warn "IceCube: ##{name} deprecated (please use ##{replacement})"
       else
         warn "IceCube: ##{name} deprecated"
       end
-      send old_name, *args, &amp;block
+      send old_name, *args, &block
     end
   end
 

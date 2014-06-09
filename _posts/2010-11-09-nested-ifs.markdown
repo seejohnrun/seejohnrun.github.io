@@ -25,7 +25,7 @@ end
 When in any other language, everyone would prefer:
 
 ``` ruby
-if condition1 &amp;&amp; condition2
+if condition1 && condition2
   do_something
 end
 ```

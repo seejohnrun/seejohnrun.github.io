@@ -36,7 +36,7 @@ class User extends CI_Model {
   private static $db;
   function __construct() {
     parent::__construct();
-    self::$db = &amp;get_instance()->db;
+    self::$db = &get_instance()->db;
   }
   static function get_by_email_address($email) {
     return self::$db->where('email', $email)->get('users')->result('User');
