@@ -14,7 +14,7 @@ Hey ya'll! Today I'm going to talk about a seemingly minor change I made to DB_r
 This change will allow people to use their Models more intuitivel.
 
 Imagine the really common case where we have a User with many comments.
-Before, we d write code like this:
+Before, we'd write code like this:
 
 ``` php
 <?php

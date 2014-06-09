@@ -23,7 +23,7 @@ Over time, as your libraries evolve, you'll want to deprecate methods. Generally
 </ol>
 Ruby makes adding deprecation painless, by use of <a href="http://en.wikipedia.org/wiki/Mixin">Mixins</a> and <a href="http://www.leonardoborges.com/writings/2008/08/07/why-i-like-ruby-1-alias_method/">alias_method</a>.
 
-I was deprecating some methods (mostly type #1) on a library of mine yesterday, and I thought it d be interesting to share my strategy:
+I was deprecating some methods (mostly type #1) on a library of mine yesterday, and I thought it'd be interesting to share my strategy:
 
 First I created this module:
 

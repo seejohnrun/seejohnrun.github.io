@@ -23,7 +23,7 @@ Lining this up against current ISO-3166, I found a few missing, particularly:
 	<li>Jersey <code>(je)</code></li>
 	<li>St. Martin <code>(mf)</code></li>
 </ul>
-I made up these icons to match the existing set for these extra countries, and have attached them here. Feel free to use them anywhere you d like to round out your flag set. They're the same dimensions as the original set.
+I made up these icons to match the existing set for these extra countries, and have attached them here. Feel free to use them anywhere you'd like to round out your flag set. They're the same dimensions as the original set.
 
 Enjoy!
 

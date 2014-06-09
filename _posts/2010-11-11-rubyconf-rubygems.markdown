@@ -10,7 +10,7 @@ tags:
 ---
 
 The first day of [RubyConf 2010](http://rubyconf.org/) just came to an end here
-in New Orleans, and overall I d say it was pretty good. [Tom
+in New Orleans, and overall I'd say it was pretty good. [Tom
 Preston-Werner](http://twitter.com/mojombo) gave a talk very
 similar to his talk at LSRC, but still awesome. [Jeremy
 Hinegardner](http://twitter.com/copiousfreetime) gave a really

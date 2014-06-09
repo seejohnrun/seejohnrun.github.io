@@ -23,7 +23,7 @@ This week, I've spent time on a few projects, mostly:
 * Start on a project called _RestfulDocumentation_, which will automatically
   parse comments of controller actions in Rails into a quick, readable documentation.
 
-I d say overall, 2012 is rocking pretty hard right now.
+I'd say overall, 2012 is rocking pretty hard right now.
 Its been really rewarding, and there's a lot to look forward to.
 
 Hope yours is going similarly!

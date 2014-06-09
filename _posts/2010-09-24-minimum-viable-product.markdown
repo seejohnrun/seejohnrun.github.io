@@ -32,7 +32,7 @@ find out (from your users) what's most important.
 ### How should a MVP affect pricing?
 
 If you're making an MVP the right way - the pricing should be the same exact
-model that you d imagine the full product to have. For the time up until your
+model that you'd imagine the full product to have. For the time up until your
 first additional feature, the MVP __is__ the product. People need
 to get away from the concept that the MVP is some quick, dirty hack to prove to
 investors the product is viable. Its not, its just a way to not work too hard

@@ -22,7 +22,7 @@ This reminds me of <a href="http://www.tylernichols.com/web-development/i-am-don
 <ul>
 	<li>The timeframe of his freemium strategy was too short to build the devoted user base that freemium depends upon</li>
 	<li>The product he was working with is (however well done it may be) not something that users will build loyalty to, but rather a seasonal site of a sort that most people would reasonably expect to find for free</li>
-	<li>If you expect a high number of people to pay, just charge for the service and accept the lower virality along with making the bar of entry higher. I d argue if he hadn't had a freemium model in place at all, his overally hit count and paying customer count would have been even lower.</li>
+	<li>If you expect a high number of people to pay, just charge for the service and accept the lower virality along with making the bar of entry higher. I'd argue if he hadn't had a freemium model in place at all, his overally hit count and paying customer count would have been even lower.</li>
 </ul>
 But the article does frame a discussion for deeper problems with freemium <em>APIs</em> like Google s. Automated abuse can quickly ruin a great service, but I have to think there must be a middle ground between non-keyed API access (as before), and no free-usage tier. What do you think?
 

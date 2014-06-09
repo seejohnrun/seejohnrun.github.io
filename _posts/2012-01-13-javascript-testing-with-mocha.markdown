@@ -27,7 +27,7 @@ it('should test something', function() {
 
 Most of my node code is written with callbacks, and I started to notice that using Jasmine, my async tests got pretty wild. A quick run-through will help explain how Jasmine is used, and why it works the way it does.
 
-Testing asynchronous code is rough because you d like to test expectations after some thing completes. Knowing when it completed is not directly possible in Javascript, so first attempts to test asynchronous Javascript led to relying heavily on timeouts:
+Testing asynchronous code is rough because you'd like to test expectations after some thing completes. Knowing when it completed is not directly possible in Javascript, so first attempts to test asynchronous Javascript led to relying heavily on timeouts:
 
 {% highlight js %}
 var hitThatCallback = function(callback) {
@@ -64,7 +64,7 @@ it('should test something', function() {
 });
 {% endhighlight %}
 
-If you don't think that's out of control, you can use your imagination to see how it looks with multiple asynchronous calls after one another, but it definitely works exactly as we d hope.
+If you don't think that's out of control, you can use your imagination to see how it looks with multiple asynchronous calls after one another, but it definitely works exactly as we'd hope.
 
 <a href="http://visionmedia.github.com/mocha/">Mocha</a> is another framework, and mine of choice recently. It takes a different approach to testing async:
 

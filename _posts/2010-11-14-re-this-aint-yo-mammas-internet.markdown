@@ -28,7 +28,7 @@ Facebook is making great strides (and amazingly successful strides) at transitio
 <a href="http://www.rockmelt.com/">RockMelt</a> is a great idea for the now, and is necessary, but trends are placing us away from the browser. Facebook is most likely looking at where users are headed and optimizing for that. Their portable apps are going to become more and more effective as more users move away from the desktop platform.
 
 ### How many investors invest in social apps because they think anything social will make money, and not because they understand the insanity of it all?
-I d say at this point, most are investing purely in the direction of the trends.
+I'd say at this point, most are investing purely in the direction of the trends.
 
 ### What is sum of it all? Where is all this stuff leading us? Social networking is surely not the terminus.
 Social networking is not the terminus. There never will be a terminus, just an ebb and flow with the occasional 100-foot-tall wave. Another one is headed, and I'm more excited than anything.

@@ -51,7 +51,7 @@ TwitterStream ts = TweetRiver.sample(tws, handler);
 (new Thread(ts)).start();
 ```
 
-and the streaming will begin. If you d rather track keywords or users as
+and the streaming will begin. If you'd rather track keywords or users as
 specified by the Twitter API site, you can use the  filter  method.
 
 ``` java

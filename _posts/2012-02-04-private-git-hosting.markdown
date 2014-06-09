@@ -12,7 +12,7 @@ meta:
   _edit_last: '1'
   dsq_thread_id: '608838716'
 ---
-I've mentioned this before in talks, but never on the blog   so I d like to share my choice of private git hosting services.
+I've mentioned this before in talks, but never on the blog   so I'd like to share my choice of private git hosting services.
 
 I was a long-time private <a href="https://github.com/">GitHub</a> subscriber. What I kept running into is that I had a lot of smaller repositories that I wanted to keep around, and I was constantly deleting projects to make room for others. Super annoying.
 

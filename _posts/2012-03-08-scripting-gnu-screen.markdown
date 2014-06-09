@@ -24,7 +24,7 @@ So a simple script to open two named screens might be as simple as:
 <pre><code>screen title "window one" screen title "window two"</code></pre>
 Or even more simply:
 <pre><code>screen -t "window one" screen -t "window two"</code></pre>
-Using the commands there, in addition to some other tools based on what you want to start up   you can put together a completely reasonable script to start up your screen session for a project. I like the idea of rather than executing the things you want on startup, executing them with a comment before them, and then starting them as needed. So if you wanted a rails server, instead of running `rails server`, you d just run `# rails server`. Then you can just hit up when you want to actually start the server.
+Using the commands there, in addition to some other tools based on what you want to start up   you can put together a completely reasonable script to start up your screen session for a project. I like the idea of rather than executing the things you want on startup, executing them with a comment before them, and then starting them as needed. So if you wanted a rails server, instead of running `rails server`, you'd just run `# rails server`. Then you can just hit up when you want to actually start the server.
 
 To run these scripts is a little tricky, but once you know how its easy:
 <div>
