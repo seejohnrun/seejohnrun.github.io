@@ -16,7 +16,7 @@ In order for us to call something a revolution, it needs to cause a fundamental 
 
 <strong>Not Revolutions:</strong> web-enabled phones, Facebook, laptop computers, cell phones
 
-Certainly these things are massive achievements, but newer, faster, better, more available ways to view data aren t revolutionary. Like Kenny says, social networking is not the terminus, but I believe things are combining and mixing in a very interesting way, and that our next real revolution is closely related and imminent. I think the relation is that the revolution will center on things that are being built to support social networking. Geolocation, passive interaction, and most importantly: general openness of data, which allows companies to build compelling value as a combination of existing services.
+Certainly these things are massive achievements, but newer, faster, better, more available ways to view data aren't revolutionary. Like Kenny says, social networking is not the terminus, but I believe things are combining and mixing in a very interesting way, and that our next real revolution is closely related and imminent. I think the relation is that the revolution will center on things that are being built to support social networking. Geolocation, passive interaction, and most importantly: general openness of data, which allows companies to build compelling value as a combination of existing services.
 
 ---
 

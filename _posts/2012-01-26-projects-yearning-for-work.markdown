@@ -28,6 +28,6 @@ I started playing with <a href="https://github.com/search">GitHub search</a>, an
 
 <a href="https://github.com/search?type=Code&amp;language=&amp;q=path%3ATODO.md&amp;repo=&amp;langOverride=&amp;x=0&amp;y=0&amp;start_value=1">try it out!</a>
 
-Once you have the list of files, you can go through the repositories and get their language or other properties. Adding a few other file names, and a search index, you could get a pretty neat list of projects that are looking to implement new features. I agree that these aren t necessarily projects that want more contributors, but its definitely a good place to start.
+Once you have the list of files, you can go through the repositories and get their language or other properties. Adding a few other file names, and a search index, you could get a pretty neat list of projects that are looking to implement new features. I agree that these aren't necessarily projects that want more contributors, but its definitely a good place to start.
 
 In the next few days, I ll be releasing a small tool to automate this process. What do you all think? Any other ideas?

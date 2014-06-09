@@ -20,7 +20,7 @@ rule = Rule.monthly.day_of_week(:friday => [2, -1])
 
 People are using this for all kinds of cool projects, from event calendars to prescription scheduling systems. The project is at a point now where I m regularly getting pull requests from people for new features that they want to add, and its really exciting to make something and have it be so successful - despite its terrible name, and the fact that its free :)
 
-This whole project started because of how open my employer, <a href="http://patch.com/">Patch.com</a> is about open sourcing things that aren t  trade secrets . Seeing how well it went keeps me looking for things that we can do to help the development community. More companies should work like this. Its a great recruiting tool, costs you nothing, and helps you find issues that may otherwise cost you a bunch of money when the software breaks later on.
+This whole project started because of how open my employer, <a href="http://patch.com/">Patch.com</a> is about open sourcing things that aren't  trade secrets . Seeing how well it went keeps me looking for things that we can do to help the development community. More companies should work like this. Its a great recruiting tool, costs you nothing, and helps you find issues that may otherwise cost you a bunch of money when the software breaks later on.
 
 Some notable projects (a small subset) from the Patch idea factory:
 
