@@ -19,7 +19,7 @@ Array#each used to be a for loop:
 
 ``` js
 var number;
-for (var i = 0; i &lt; numbers.length; i++) {
+for (var i = 0; i < numbers.length; i++) {
   number = numbers[i];
   // do something
 }
@@ -38,7 +38,7 @@ And map used to be pretty ugly:
 ``` js
 var newNumbers = Array.new(numbers.length);
 var number;
-for (var i = 0; i &lt; numbers.length; i++) {
+for (var i = 0; i < numbers.length; i++) {
   number = numbers[i];
   newNumbers[i] = someOperation(number);
 }

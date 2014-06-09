@@ -37,10 +37,10 @@ Shifting these arrays based on the rotational number get us most of the way to w
 ``` php
 <?php
 // shift the duties array
-for ($i = 0; $i &lt; $rot; $i++) {
+for ($i = 0; $i < $rot; $i++) {
   $duties[count($duties) - 1] = array_shift($duties);
 }
-for ($i = 0; $i &lt; $rot; $i++) {
+for ($i = 0; $i < $rot; $i++) {
   $people[count($people) - 1] = array_shift($people);
 }
 ```
