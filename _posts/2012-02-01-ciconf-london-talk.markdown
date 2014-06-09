@@ -14,7 +14,7 @@ all_set: true
 ---
 
 A few days ago, my talk got posted for <a href="http://ciconf.com/">ciconf</a>
-in London. This year, I ll be talking about the state of testing in CodeIgniter.
+in London. This year, I'll be talking about the state of testing in CodeIgniter.
 
 As the blurb says, we all know we should be testing our applications and
 libraries, but its not very straightforward to get things set up. Also,

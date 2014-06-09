@@ -22,7 +22,7 @@ Certainly these things are massive achievements, but newer, faster, better, more
 
 ### How will Facebook and other social networks become even more real-time?
 
-Facebook is making great strides (and amazingly successful strides) at transitioning its users off of its browser platform, and getting them to consume and contribute data in other ways. Interacting via mobile devices   but more importantly   through their connections to each other, and to <em>other</em> services. Moves to passively collect and distribute information are how we ll get there.
+Facebook is making great strides (and amazingly successful strides) at transitioning its users off of its browser platform, and getting them to consume and contribute data in other ways. Interacting via mobile devices   but more importantly   through their connections to each other, and to <em>other</em> services. Moves to passively collect and distribute information are how we'll get there.
 
 ### How will desktop-based social browsers like RockMelt fair?
 <a href="http://www.rockmelt.com/">RockMelt</a> is a great idea for the now, and is necessary, but trends are placing us away from the browser. Facebook is most likely looking at where users are headed and optimizing for that. Their portable apps are going to become more and more effective as more users move away from the desktop platform.

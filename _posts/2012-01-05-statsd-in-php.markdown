@@ -19,7 +19,7 @@ This morning, having a need for a statsd-client in PHP - I put one together and 
 
 ---
 
-Using php-statsd is easy - I ll focus on using it with CodeIgniter (but it can be used without, see the README)
+Using php-statsd is easy - I'll focus on using it with CodeIgniter (but it can be used without, see the README)
 
 ``` php
 <?php

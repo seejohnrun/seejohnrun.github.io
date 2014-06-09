@@ -16,7 +16,7 @@ meta:
   dsq_thread_id: '611186416'
   _yoast_wpseo_linkdex: '0'
 ---
-If you use a mac, then you should be using <a href="http://mxcl.github.com/homebrew/">Homebrew</a> to manage your packages. If you use Homebrew, you ll notice that a lot of the services that you install will be controlled via <a href="http://en.wikipedia.org/wiki/Launchd">launchd</a>, which is a Mac OS framework for managing (starting / stopping) services.
+If you use a mac, then you should be using <a href="http://mxcl.github.com/homebrew/">Homebrew</a> to manage your packages. If you use Homebrew, you'll notice that a lot of the services that you install will be controlled via <a href="http://en.wikipedia.org/wiki/Launchd">launchd</a>, which is a Mac OS framework for managing (starting / stopping) services.
 
 What they recommend is to put load these scripts with something like <code>launchctl load</code>, which will keep the service up, and restart it each time your machine restarts.
 

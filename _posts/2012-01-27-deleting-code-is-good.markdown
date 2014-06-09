@@ -13,7 +13,7 @@ meta:
   _wp_old_slug: software-development
   dsq_thread_id: '555171523'
 ---
-As programmers, we ll always reward the simplest solution to a problem. There is a really satisfying feeling that comes from taking something you thought was complicated and boiling it down to its essence, seeing pieces of the problem dissolve as you code.
+As programmers, we'll always reward the simplest solution to a problem. There is a really satisfying feeling that comes from taking something you thought was complicated and boiling it down to its essence, seeing pieces of the problem dissolve as you code.
 
 On the other hand, there is always an uneasy tendency dragging in the other direction. The more you work on an answer, the more you want it to be right. This commitment makes you less willing to turn back and accept that you need a rethink.
 

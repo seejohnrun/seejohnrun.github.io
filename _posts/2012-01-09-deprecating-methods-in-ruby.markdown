@@ -15,7 +15,7 @@ meta:
   _syntaxhighlighter_encoded: '1'
   dsq_thread_id: '533235600'
 ---
-Over time, as your libraries evolve, you ll want to deprecate methods. Generally, the deprecations you ll make will fit into one of three categories:
+Over time, as your libraries evolve, you'll want to deprecate methods. Generally, the deprecations you'll make will fit into one of three categories:
 <ol>
 	<li>Changing the name of a method to be more descriptive</li>
 	<li>Change how a certain process works to be more clear, normally as part of a shift in how people will <em>use</em> your library</li>
@@ -114,4 +114,4 @@ end
 
 ---
 
-You ll definitely want to add more information via a third argument (like <code>advice=</code>) to say when the method will be removed and suggest alternatives, but that's the general idea. Use it as an easy way to deprecated and change methods without outright removing them, or mucking up their implementation with a bunch of <code>warn</code> calls.
+You'll definitely want to add more information via a third argument (like <code>advice=</code>) to say when the method will be removed and suggest alternatives, but that's the general idea. Use it as an easy way to deprecated and change methods without outright removing them, or mucking up their implementation with a bunch of <code>warn</code> calls.

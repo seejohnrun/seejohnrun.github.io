@@ -74,7 +74,7 @@ My favorite is their <a href="http://compass-style.org/reference/compass/css3/">
 }
 {% endhighlight %}
 <h2 id="wrapup">Wrap-up</h2>
-If you haven't already used Sass, I hope I've inspired you to go check it out! It ll really speed up your CSS workflow.
+If you haven't already used Sass, I hope I've inspired you to go check it out! It'll really speed up your CSS workflow.
 
 <hr />
 

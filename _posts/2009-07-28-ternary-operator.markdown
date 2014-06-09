@@ -47,7 +47,7 @@ else {
 }
 ```
 
-After they learn a bit, certain people think they ll be clever and shorten that line to:
+After they learn a bit, certain people think they'll be clever and shorten that line to:
 
 ``` java
 boolean awake = (drink.equals("coffee")) ? true : false;

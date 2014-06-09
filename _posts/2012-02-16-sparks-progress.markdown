@@ -17,4 +17,4 @@ We've seen an uptick in activity on <a href="http://getsparks.org/">getsparks.or
 
 If you haven't looked in a while, I totally recommend checking out the list of <a href="http://getsparks.org/packages/browse/latest">lastest packages</a>.
 
-I ll be covering the progress on Saturday morning at <a href="http://ciconf.com/">CICONF  12</a> in London before my talk too. Keep up the great work and watch out for more amazing contributions!
+I'll be covering the progress on Saturday morning at <a href="http://ciconf.com/">CICONF  12</a> in London before my talk too. Keep up the great work and watch out for more amazing contributions!

@@ -16,7 +16,7 @@ If you re using <code>git</code>, you re sure to know about <code>.gitignore</co
 
 This is really useful if you want to ignore byproducts of your code that shouldn't be checked in. Common candidates are <code>build/</code> or <code>dist/</code> directories   but its also very common to see things like <code>coverage/</code> or <code>*.gem</code> in this list.
 
-There is another type of file you ll commonly want to ignore though, and these files tend to be environment-specific. Some examples are:
+There is another type of file you'll commonly want to ignore though, and these files tend to be environment-specific. Some examples are:
 <ul>
 	<li><code>vim</code> swap files, <code>*.swo</code> and <code>*.swp</code></li>
 	<li><code>emacs</code> swap files <code>~*</code> or <code>.#*</code></li>

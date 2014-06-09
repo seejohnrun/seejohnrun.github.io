@@ -40,4 +40,4 @@ hmacer.digest('hex');
 
 The syntax, while longer, feels more flexible.
 
-My true appreciation for <a href="https://github.com/brainfucker/hashlib">hashlib</a>,   if the issues are resolved I ll definitely go back. For the time being, <code>crypto</code> is an easy replacement that's stable in node 0.6+.
+My true appreciation for <a href="https://github.com/brainfucker/hashlib">hashlib</a>,   if the issues are resolved I'll definitely go back. For the time being, <code>crypto</code> is an easy replacement that's stable in node 0.6+.

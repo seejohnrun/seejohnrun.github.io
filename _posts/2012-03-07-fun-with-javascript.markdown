@@ -14,7 +14,7 @@ meta:
   dsq_thread_id: '603307559'
   _yoast_wpseo_linkdex: '0'
 ---
-Let's have some fun with JavaScript! First, we ll define a <code>Person</code>:
+Let's have some fun with JavaScript! First, we'll define a <code>Person</code>:
 
 {% highlight js %}
 var Person = function () { };
@@ -25,7 +25,7 @@ Person.prototype = {
 };
 {% endhighlight %}
 
-Then we ll create a <code>NotPerson</code>, who is definitely not a person, but is a special function:
+Then we'll create a <code>NotPerson</code>, who is definitely not a person, but is a special function:
 
 {% highlight js %}
 var NotPerson = function () {

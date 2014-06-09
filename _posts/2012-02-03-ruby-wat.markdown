@@ -11,7 +11,7 @@ tags:
 
 There's a really fun video that went around a few days ago called
 [Wat?](https://www.destroyallsoftware.com/talks/wat). If you haven't seen it
-yet, go do that now. I ll wait..
+yet, go do that now. I'll wait..
 
 ---
 
