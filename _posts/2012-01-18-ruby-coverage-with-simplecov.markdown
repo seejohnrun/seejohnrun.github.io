@@ -18,7 +18,7 @@ meta:
 ---
 I find it really useful to use a coverage tool when writing code. I don't depend on it, but I do like to see what percentage of lines are covered, so I can at least catch any glaring misses.
 
-In Ruby 1.8, we had <a href="https://github.com/relevance/rcov">rcov</a>, which was (and is) a really great tool. In Ruby 1.9, I ve been depending on <a href="https://github.com/colszowka/simplecov">SimpleCov</a>. I really enjoy their reporter interface, and the usage is very similar to rcov. In your <code>spec_helper</code>, before you include the thing you re testing, just start up SimpleCov. I prefer to write it like:
+In Ruby 1.8, we had <a href="https://github.com/relevance/rcov">rcov</a>, which was (and is) a really great tool. In Ruby 1.9, I've been depending on <a href="https://github.com/colszowka/simplecov">SimpleCov</a>. I really enjoy their reporter interface, and the usage is very similar to rcov. In your <code>spec_helper</code>, before you include the thing you re testing, just start up SimpleCov. I prefer to write it like:
 
 {% highlight ruby %}
 begin
@@ -41,7 +41,7 @@ Some features I really like:
 
 <hr />
 
-Most times, I want to be able to see coverage for one test really clearly. For the past few weeks, I ve been using something like this to accomplish it in my Rails projects:
+Most times, I want to be able to see coverage for one test really clearly. For the past few weeks, I've been using something like this to accomplish it in my Rails projects:
 
 {% highlight ruby %}
 filter = if ENV['COV'] == '*'

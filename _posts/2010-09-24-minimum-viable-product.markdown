@@ -9,7 +9,7 @@ tags:
 - Thoughts
 ---
 
-I ve been nearly obsessed lately with the idea of an MVP (Minimum Viable Product), in particular:
+I've been nearly obsessed lately with the idea of an MVP (Minimum Viable Product), in particular:
 
 ### How to decide what the MVP is
 

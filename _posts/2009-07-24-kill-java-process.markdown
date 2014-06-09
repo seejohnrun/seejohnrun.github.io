@@ -8,7 +8,7 @@ tags:
 - java
 ---
 
-Lately I ve been working with a few java applications and decided I'd really
+Lately I've been working with a few java applications and decided I'd really
 like a more convenient way of killing the processes. What I wanted was essentially:
 
 ``` bash

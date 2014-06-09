@@ -9,13 +9,13 @@ tags:
 - zset
 ---
 
-For the past 2 years I ve been all about [Redis](http://redis.io/),
+For the past 2 years I've been all about [Redis](http://redis.io/),
 and something I m continually excited about is `ZSET`.
 
 It is a sorted set implementation built into Redis. Its super fast, flexible,
 and I use it all the time, probably sometimes just because its fun.
 
-I ll show how it works, and outline two situations I ve found it to be
+I ll show how it works, and outline two situations I've found it to be
 especially effective.
 
 ### How is it used?

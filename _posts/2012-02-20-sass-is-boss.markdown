@@ -16,9 +16,9 @@ meta:
   _syntaxhighlighter_encoded: '1'
   dsq_thread_id: '608791400'
 ---
-Another installment of my  .. is boss  series, where I highlight a technology I love. This week, one that I ve been using for about two years. Its called Sass, and it provides a syntax called  SCSS  (Sassy CSS), which is an extension of CSS3 that can be compiled down to CSS with a <a href="http://sass-lang.com/download.html">sass compiler</a>.
+Another installment of my  .. is boss  series, where I highlight a technology I love. This week, one that I've been using for about two years. Its called Sass, and it provides a syntax called  SCSS  (Sassy CSS), which is an extension of CSS3 that can be compiled down to CSS with a <a href="http://sass-lang.com/download.html">sass compiler</a>.
 
-I ve used Sass in many projects, even outside of Ruby / Rails, where it is just as valid, only less popular.
+I've used Sass in many projects, even outside of Ruby / Rails, where it is just as valid, only less popular.
 
 By being compiled, Sass is able to add a few amazing features. Here are two of my favorites:
 <h2 id="nesting">Nesting</h2>
@@ -74,7 +74,7 @@ My favorite is their <a href="http://compass-style.org/reference/compass/css3/">
 }
 {% endhighlight %}
 <h2 id="wrapup">Wrap-up</h2>
-If you haven't already used Sass, I hope I ve inspired you to go check it out! It ll really speed up your CSS workflow.
+If you haven't already used Sass, I hope I've inspired you to go check it out! It ll really speed up your CSS workflow.
 
 <hr />
 

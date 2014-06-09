@@ -13,7 +13,7 @@ meta:
   _edit_last: '1'
   dsq_thread_id: '579130369'
 ---
-We ve seen an uptick in activity on <a href="http://getsparks.org/">getsparks.org</a> lately, with a bunch of new contributions and a whole lot of downloads.
+We've seen an uptick in activity on <a href="http://getsparks.org/">getsparks.org</a> lately, with a bunch of new contributions and a whole lot of downloads.
 
 If you haven't looked in a while, I totally recommend checking out the list of <a href="http://getsparks.org/packages/browse/latest">lastest packages</a>.
 

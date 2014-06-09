@@ -34,7 +34,7 @@ The ternary operator is there for a reason, and that reason is that it brings
 this common operation down to a single, extremely readable and concise line. Its
 simplicity is beautiful and it really has some great uses. __So please use it.__
 
-While we re on the topic however, to the other extreme  I ve seen a lot of this,
+While we re on the topic however, to the other extreme  I've seen a lot of this,
 which is also quite disheartening:
 
 ``` java

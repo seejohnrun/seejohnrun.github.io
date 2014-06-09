@@ -13,7 +13,7 @@ meta:
   _edit_last: '1'
   dsq_thread_id: '573729439'
 ---
-I ve been doing a bit of Io development in my spare time, and I wanted to bring forward a feature that really makes me happy.
+I've been doing a bit of Io development in my spare time, and I wanted to bring forward a feature that really makes me happy.
 
 The feature is called  futures  and here's how it works:
 

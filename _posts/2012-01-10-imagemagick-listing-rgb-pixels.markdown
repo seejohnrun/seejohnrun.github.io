@@ -14,7 +14,7 @@ meta:
   _syntaxhighlighter_encoded: '1'
   dsq_thread_id: '534601472'
 ---
-I ve been doing a decent amount of work with images and image manipulation recently at Newco. I ve never worked much in images before, but over the past eight or so months, I ve gotten my fair share of ImageMagick work in.
+I've been doing a decent amount of work with images and image manipulation recently at Newco. I've never worked much in images before, but over the past eight or so months, I've gotten my fair share of ImageMagick work in.
 
 Something I discovered today, which absolutely blew my mind is some unexpected output formats supported by <code>convert</code>, the most important for this post being <code>txt:-</code>.
 

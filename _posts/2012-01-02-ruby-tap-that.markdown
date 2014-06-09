@@ -13,7 +13,7 @@ meta:
   _syntaxhighlighter_encoded: '1'
   dsq_thread_id: '524379595'
 ---
-Today I wanted to talk about <code>#tap</code>, an addition to Ruby in versions &gt;= 1.9, and how I ve been using and seeing it used lately.
+Today I wanted to talk about <code>#tap</code>, an addition to Ruby in versions &gt;= 1.9, and how I've been using and seeing it used lately.
 <h2 id="what_is_">What is <code>#tap</code>?</h2>
 The feature is <a href="https://github.com/ruby/ruby/blob/trunk/object.c">coded</a> like so:
 

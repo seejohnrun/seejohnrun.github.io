@@ -8,12 +8,12 @@ tags:
 - Thoughts
 ---
 
-For a bit over a year, I ve worked at [Patch](http://www.patch.com/),
+For a bit over a year, I've worked at [Patch](http://www.patch.com/),
 and today will be my last day.
 
-I ve had a really good time and worked with some amazing people building some
+I've had a really good time and worked with some amazing people building some
 [amazing projects]({% post_url 2010-11-17-open-source-at-patch %}),
-and I couldn't be prouder of the work that I ve done. If anyone is
+and I couldn't be prouder of the work that I've done. If anyone is
 looking for an fun place to work, that treats engineering and open-source as
 central values, _Patch_ is a perfect place to work.
 

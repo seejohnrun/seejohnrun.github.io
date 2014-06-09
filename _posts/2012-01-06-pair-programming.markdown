@@ -12,9 +12,9 @@ meta:
   _edit_last: '1'
   dsq_thread_id: '529746338'
 ---
-In the past I ve tried to ignore all of the really smart people that think pair programming is a useful (if not vital) strategy. I ve watched talks on it, I ve seen all types of pairing stations, I ve listened to numerous people iterate the benefits   but never until this week did I actually give it a real try. I guess I dismissed it as a fad, and didn't think it was for me.
+In the past I've tried to ignore all of the really smart people that think pair programming is a useful (if not vital) strategy. I've watched talks on it, I've seen all types of pairing stations, I've listened to numerous people iterate the benefits   but never until this week did I actually give it a real try. I guess I dismissed it as a fad, and didn't think it was for me.
 
-I ve spent the past four days paired, and am hooked   I figured it d be useful to write my own list of why pairing is amazing.
+I've spent the past four days paired, and am hooked   I figured it d be useful to write my own list of why pairing is amazing.
 
 <strong>Why?</strong>
 <ul>

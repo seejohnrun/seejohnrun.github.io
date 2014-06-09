@@ -19,4 +19,4 @@ As of tonight, I m excited to say   you can sign up for <a href="http://meetup.c
 
 This isn't a typical PHP meetup group. This group is for people writing <em>real</em> web code in PHP. Not people giving it a crappy name with single-file spaghetti code, but real engineers.
 
-If this suits you, sign up   we ve got some amazing events coming up!
+If this suits you, sign up   we've got some amazing events coming up!

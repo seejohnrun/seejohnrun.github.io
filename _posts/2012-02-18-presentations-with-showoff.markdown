@@ -19,6 +19,6 @@ There's a package called <a href="https://github.com/schacon/showoff">showoff</a
 
 You can include code examples, images, incremental bullets, etc   all by just writing some markdown.
 
-I ve been using this for my talks for about a year and a half now, and I find it perfectly flexible to handle everything I want. Its amazing how gracefully it can transition from an outline into a presentation.
+I've been using this for my talks for about a year and a half now, and I find it perfectly flexible to handle everything I want. Its amazing how gracefully it can transition from an outline into a presentation.
 
 Check out my markup on my <a href="https://github.com/seejohnrun/talks/tree/master/ciconf-2012/slides">CICONF slides</a>, or go directly to the README for showoff!
