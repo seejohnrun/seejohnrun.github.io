@@ -17,7 +17,7 @@ meta:
   _syntaxhighlighter_encoded: '1'
   dsq_thread_id: '351130754'
 ---
-I m currently going through the same phase in my relationship with <a href="http://jashkenas.github.com/coffee-script/">CoffeeScript</a> that I went through a year ago with <a href="http://haml-lang.com/">Haml</a> and <a href="http://sass-lang.com/">Sass</a>. For those of you unfamiliar with CoffeeScript, its just a little syntax language that compiles directly to Javascript. Why would you want that? Well, let s look at Haml and Sass:
+I m currently going through the same phase in my relationship with <a href="http://jashkenas.github.com/coffee-script/">CoffeeScript</a> that I went through a year ago with <a href="http://haml-lang.com/">Haml</a> and <a href="http://sass-lang.com/">Sass</a>. For those of you unfamiliar with CoffeeScript, its just a little syntax language that compiles directly to Javascript. Why would you want that? Well, let's look at Haml and Sass:
 
 <strong>Haml</strong>
 
@@ -66,7 +66,7 @@ So Sass uses the benefit of precompilation to add a few features (and <a href="h
 
 <strong>CoffeeScript</strong>
 
-So then there s CoffeeScript. If you haven't tried the <a href="http://jashkenas.github.com/coffee-script/"> Try CoffeeScript </a> demo yet, totally do that. Since the CoffeeScript compiler is implemented in JavaScript it can run for reals right in your browser. When you re ready to use it, if you re using Rails,<a href="https://github.com/Sutto/barista">Barista</a> is pretty awesome and quick to set up.
+So then there's CoffeeScript. If you haven't tried the <a href="http://jashkenas.github.com/coffee-script/"> Try CoffeeScript </a> demo yet, totally do that. Since the CoffeeScript compiler is implemented in JavaScript it can run for reals right in your browser. When you re ready to use it, if you re using Rails,<a href="https://github.com/Sutto/barista">Barista</a> is pretty awesome and quick to set up.
 
 So now - why CoffeeScript again? CoffeeScript addresses a major pain point for Javascript developers: appearance, and <a href="http://www.jslint.com/">JSLint</a>. CoffeeScript always compiles to code that is set for JSLint (and normally more performant).
 

@@ -20,7 +20,7 @@ If you use a mac, then you should be using <a href="http://mxcl.github.com/homeb
 
 What they recommend is to put load these scripts with something like <code>launchctl load</code>, which will keep the service up, and restart it each time your machine restarts.
 
-That s kind of annoying, since most of the time you don't need Postgres, mongodb, and Redis running in the background while you check your email.
+That's kind of annoying, since most of the time you don't need Postgres, mongodb, and Redis running in the background while you check your email.
 
 You can use <code>launchctl</code> directly to stop and start <code>launchd</code> services, but its kind of annoying, since you need to specify the full path of the <code>plist</code> file you want to control. I prefer to use a little Ruby gem called <a href="http://rubygems.org/gems/lunchy">lunchy</a> on my machines.
 

@@ -20,8 +20,8 @@ Contributions don't always have to be time-consuming, and they don't even have t
 
 Today I added <a
 href="https://github.com/seejohnrun/ice_cube/commit/88bb48ae7efde0e2e0304f33465c0fde792bb0d4">support
-for `conflicts_with?`</a> to <a href="https://github.com/seejohnrun/ice_cube">ice_cube</a>. What will you do today? Not much time left.. okay let s forget today and start tomorrow. Make/contribute to some project, as a way to pay back in for all of the <em>absolutely amazing</em> free software and libraries we have to use every day.
+for `conflicts_with?`</a> to <a href="https://github.com/seejohnrun/ice_cube">ice_cube</a>. What will you do today? Not much time left.. okay let's forget today and start tomorrow. Make/contribute to some project, as a way to pay back in for all of the <em>absolutely amazing</em> free software and libraries we have to use every day.
 
 <hr />
 
-For fun, this reminds me of a project from <a href="http://warpspire.com/">@kneath</a> and <a href="http://techno-weenie.net/">@technoweenie</a> a while back. The <a href="http://calendaraboutnothing.com/">Calendar About Nothing</a> tracks consecutive days of commits on github. Let s bump up those numbers in the  Current Streaks  section and really make 2012 count!
+For fun, this reminds me of a project from <a href="http://warpspire.com/">@kneath</a> and <a href="http://techno-weenie.net/">@technoweenie</a> a while back. The <a href="http://calendaraboutnothing.com/">Calendar About Nothing</a> tracks consecutive days of commits on github. Let's bump up those numbers in the  Current Streaks  section and really make 2012 count!

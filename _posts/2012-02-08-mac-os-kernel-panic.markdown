@@ -15,7 +15,7 @@ meta:
 ---
 I have a laptop running snow leopard, and lately I ve been seeing a lot of kernel panics. After some digging, I found Chrome to be the issue, as it wasn't closing processes and ended up having too many open at once.
 
-If you ever have a kernel panic, the logs can be really helpful. Finding them is a bit unconventional, due to Mac OS s  make everything non-standard  approach.
+If you ever have a kernel panic, the logs can be really helpful. Finding them is a bit unconventional, due to Mac OS's  make everything non-standard  approach.
 
 They are in:
 

@@ -9,7 +9,7 @@ tags:
 - wat
 ---
 
-There s a really fun video that went around a few days ago called
+There's a really fun video that went around a few days ago called
 [Wat?](https://www.destroyallsoftware.com/talks/wat). If you haven't seen it
 yet, go do that now. I ll wait..
 
@@ -67,7 +67,7 @@ And my personal favorite:
 
 ---
 
-To explain, this is all due to how Ruby s parser tears things apart. It actually
+To explain, this is all due to how Ruby's parser tears things apart. It actually
 creates a variable on the left hand side of an assignment before it evaluates
 the right hand side. Probably will never affect you, but definitely cool to
 know!

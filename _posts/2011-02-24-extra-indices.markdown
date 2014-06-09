@@ -14,7 +14,7 @@ meta:
   _syntaxhighlighter_encoded: '1'
   dsq_thread_id: '351227396'
 ---
-Having superfluous indices can slow down insertion time in your database. Here s a quick script to point out indices that are duplicates or subsets so you can decide if you want them.
+Having superfluous indices can slow down insertion time in your database. Here's a quick script to point out indices that are duplicates or subsets so you can decide if you want them.
 
 ``` ruby
 require 'rubygems'

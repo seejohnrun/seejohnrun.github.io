@@ -41,4 +41,4 @@ for (var i = 0; (i < 10); (i++)) {
 
 So this is code that still works, but when run, will record which lines were touched. Then the mocha runner just runs the tests, parses the output and puts it in a pretty format. Really cool, useful stuff!
 
-<em>Pro tip</em>: <code>jscoverage</code> also highlights code by default and I found that it was messing up mocha s output. You can turn it off with <code>jscoverage --no-highlight</code>.
+<em>Pro tip</em>: <code>jscoverage</code> also highlights code by default and I found that it was messing up mocha's output. You can turn it off with <code>jscoverage --no-highlight</code>.

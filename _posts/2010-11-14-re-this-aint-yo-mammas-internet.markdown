@@ -35,4 +35,4 @@ Social networking is not the terminus. There never will be a terminus, just an e
 
 ---
 
-<em>There s a crazy future ahead of us.</em>
+<em>There's a crazy future ahead of us.</em>

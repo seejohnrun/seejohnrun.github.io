@@ -16,7 +16,7 @@ meta:
 ---
 For about two years, I ve maintained a Ruby library called <a href="https://github.com/seejohnrun/easy_translate">EasyTranslate</a> for working with the Google Translate API. Google Translate has been (like other Google APIs) free to use withing a certain range.
 
-Recently, they ve deprecated (read: completely turned off) access to v1, due to  substantial economic burden caused by extensive abuse . That s really a shame. The larger shame is that there is <em>no</em> free usage tier for v2 of the API. Even to santiy check my API client (that I don't even use anymore), I need to pay.
+Recently, they ve deprecated (read: completely turned off) access to v1, due to  substantial economic burden caused by extensive abuse . That's really a shame. The larger shame is that there is <em>no</em> free usage tier for v2 of the API. Even to santiy check my API client (that I don't even use anymore), I need to pay.
 
 This reminds me of <a href="http://www.tylernichols.com/web-development/i-am-done-with-the-freemium-business-model">an article</a> I read yesterday on HackerNews (and linked by <a href="http://codefury.net/">Kenny Katzgrau</a>) about how one developer is fed up with freemium as a model due to lack of conversion from free to paying customers. I don't really agree with that article for a few reasons:
 <ul>

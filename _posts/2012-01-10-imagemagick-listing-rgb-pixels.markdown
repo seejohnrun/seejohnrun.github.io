@@ -18,7 +18,7 @@ I ve been doing a decent amount of work with images and image manipulation recen
 
 Something I discovered today, which absolutely blew my mind is some unexpected output formats supported by <code>convert</code>, the most important for this post being <code>txt:-</code>.
 
-A lot of times, its very useful to get the pixel results of an operation as rgb values, and that s exactly what <code>txt:-</code> does.
+A lot of times, its very useful to get the pixel results of an operation as rgb values, and that's exactly what <code>txt:-</code> does.
 
 Consider this operation:
 
@@ -26,9 +26,9 @@ Consider this operation:
 $ cat cat.jpg | convert - -resize 4x4^ -extent 4x4+0+0 -gravity center -
 {% endhighlight %}
 
-This will take a picture of a pretty cat and resize it (in an equivelant matter to RMagick s <code>resize_to_fill</code> - which you can compare to how flickr.com displays photos) to 4x4 pixels.
+This will take a picture of a pretty cat and resize it (in an equivelant matter to RMagick's <code>resize_to_fill</code> - which you can compare to how flickr.com displays photos) to 4x4 pixels.
 
-That s all well and great, and we can use libraries like <code>RMagick</code> or perl s <code>Magick</code> to iterate through the pixels and perform other operations. <code>txt:-</code> lets us be more direct and work with what we want:
+That's all well and great, and we can use libraries like <code>RMagick</code> or perl's <code>Magick</code> to iterate through the pixels and perform other operations. <code>txt:-</code> lets us be more direct and work with what we want:
 
 {% highlight bash %}
 $ cat cat.jpg | convert - -resize 4x4^ -extent 4x4+0+0 -gravity center txt:-

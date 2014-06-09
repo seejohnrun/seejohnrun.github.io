@@ -114,4 +114,4 @@ end
 
 ---
 
-You ll definitely want to add more information via a third argument (like <code>advice=</code>) to say when the method will be removed and suggest alternatives, but that s the general idea. Use it as an easy way to deprecated and change methods without outright removing them, or mucking up their implementation with a bunch of <code>warn</code> calls.
+You ll definitely want to add more information via a third argument (like <code>advice=</code>) to say when the method will be removed and suggest alternatives, but that's the general idea. Use it as an easy way to deprecated and change methods without outright removing them, or mucking up their implementation with a bunch of <code>warn</code> calls.

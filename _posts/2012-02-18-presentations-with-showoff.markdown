@@ -15,7 +15,7 @@ meta:
 ---
 I got a few questions today about my slides, so I thought I d do a quick writeup on how they re made.
 
-There s a package called <a href="https://github.com/schacon/showoff">showoff</a> which allows you to write your slides in <a href="http://daringfireball.net/projects/markdown/">Markdown</a> and style them with CSS. Then it hosts a local web service on <a href="http://localhost:9090/">localhost:9090</a> by default by just running <code>showoff serve</code>. Your slides are there, and you can just click through them for your presentation.
+There's a package called <a href="https://github.com/schacon/showoff">showoff</a> which allows you to write your slides in <a href="http://daringfireball.net/projects/markdown/">Markdown</a> and style them with CSS. Then it hosts a local web service on <a href="http://localhost:9090/">localhost:9090</a> by default by just running <code>showoff serve</code>. Your slides are there, and you can just click through them for your presentation.
 
 You can include code examples, images, incremental bullets, etc   all by just writing some markdown.
 

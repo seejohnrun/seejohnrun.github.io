@@ -44,7 +44,7 @@ it('should test something', function() {
 });
 {% endhighlight %}
 
-This approach lasted for a bit (and can still be used in Jasmine), but as programmers it just didn't feel right   there just had to be a better way. The next step Jasmine took to keep track of those callbacks involved two methods called <code>runs</code> and <code>waitsFor</code>, which share functional scope with each other. Here s how you would write the above test using them:
+This approach lasted for a bit (and can still be used in Jasmine), but as programmers it just didn't feel right   there just had to be a better way. The next step Jasmine took to keep track of those callbacks involved two methods called <code>runs</code> and <code>waitsFor</code>, which share functional scope with each other. Here's how you would write the above test using them:
 
 {% highlight js %}
 it('should test something', function() {
@@ -64,7 +64,7 @@ it('should test something', function() {
 });
 {% endhighlight %}
 
-If you don't think that s out of control, you can use your imagination to see how it looks with multiple asynchronous calls after one another, but it definitely works exactly as we d hope.
+If you don't think that's out of control, you can use your imagination to see how it looks with multiple asynchronous calls after one another, but it definitely works exactly as we d hope.
 
 <a href="http://visionmedia.github.com/mocha/">Mocha</a> is another framework, and mine of choice recently. It takes a different approach to testing async:
 

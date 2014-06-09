@@ -34,7 +34,7 @@ $ mkdir -p spec/examples # for your tests
 
 For this simple gem, we drop our module code into <code>./reverser.rb</code>. If we had other modules or class definitions, they would be loaded (or autoloaded) from reverser.rb and stored in <code>./lib/reverser</code>
 
-The next thing we ll need is a gemspec. A gemspec is just a ruby file that gives gemcutter details about your gem. Name this file <code>reverser.gemspec</code>, and put it in your project s root directory alongside <code>lib</code>. The contents should look something like:
+The next thing we ll need is a gemspec. A gemspec is just a ruby file that gives gemcutter details about your gem. Name this file <code>reverser.gemspec</code>, and put it in your project's root directory alongside <code>lib</code>. The contents should look something like:
 
 {% highlight ruby %}
 require 'lib/reverser/version'

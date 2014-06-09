@@ -33,7 +33,7 @@ end
 You can definitely make an argument that its easy to change this logic later,
 but I d be against any argument that says the readability is higher here. Given
 that there are no ELSE statements, the two boolean are logically tied to each
-other. That s exactly why we have the `&&` operator.
+other. That's exactly why we have the `&&` operator.
 
 ---
 
@@ -49,7 +49,7 @@ end
 ```
 
 I know everyone likes avoiding the `return` keyword, but wrapping an entire
-method s body in an IF cries out to be this:
+method's body in an IF cries out to be this:
 
 ``` ruby
 def func

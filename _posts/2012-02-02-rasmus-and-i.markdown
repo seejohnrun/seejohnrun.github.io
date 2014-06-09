@@ -17,7 +17,7 @@ all_set: true
 
 There I am with <a href="http://en.wikipedia.org/wiki/Rasmus_Lerdorf">Rasmus</a>, the creator of <a href="http://php.net/">PHP</a>..
 
-I went to a talk tonight by Rasmus at the <a href="http://www.etsy.com/">Etsy</a> headquarters in Brooklyn. This isn't the first time I ve seen him speak, but it <em>is</em> the first time I ve heard him tell his/PHP s backstory.
+I went to a talk tonight by Rasmus at the <a href="http://www.etsy.com/">Etsy</a> headquarters in Brooklyn. This isn't the first time I ve seen him speak, but it <em>is</em> the first time I ve heard him tell his/PHP's backstory.
 
 The thing that really struck me was his description of how PHP wasn't really made to be a programming language in the sense that we use it today. This is really central to his common criticism of frameworks (which is often seen as crotchety).
 

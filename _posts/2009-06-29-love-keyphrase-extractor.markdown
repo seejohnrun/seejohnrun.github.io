@@ -37,7 +37,7 @@ for (Phrase phrase : phrases) {
 }
 ```
 
-This stuff is in heavy use on one of Zinkk s parsing engines already, and
+This stuff is in heavy use on one of Zinkk's parsing engines already, and
 will be seeing some nice enhancements in the coming weeks. The NLP (Natural
 Language Processing) implications of this library have increased our
 processing speed and end results dramatically.

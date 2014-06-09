@@ -22,12 +22,12 @@ is overly complicated and full of useless features.
 
 ### What it means to the development lifecycle as a whole
 
-_The MVP is not a prototype, it is a proof of concept._ What s the difference?
+_The MVP is not a prototype, it is a proof of concept._ What's the difference?
 When developing a prototype, it might be acceptable to glaze over negative
 cases, or not make things secure. When developing an MVP, there should be no
 loss of quality, just a loss of quantity. It is a quick way to determine if the
 fundamental concept of your application works, but more importantly - a way to
-find out (from your users) what s most important.
+find out (from your users) what's most important.
 
 ### How should a MVP affect pricing?
 

@@ -25,7 +25,7 @@ We started using UUIDs on a few models, so I wrote a new version of
 
 This also fixes `#find_each` because `#find_each` uses `#find_in_batches` under the covers.
 
-I figured it d be useful to someone eventually, so here s the code:
+I figured it d be useful to someone eventually, so here's the code:
 
 ---
 

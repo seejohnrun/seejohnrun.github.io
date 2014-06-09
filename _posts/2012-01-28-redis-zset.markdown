@@ -63,7 +63,7 @@ just query for scores (`ZSCORE`).
 
 The cool part about this, is that these operations are so simple, that you can
 use them as persisted copies of data structures, that can exist between multiple
-services, or multiple hosts/nodes. In fact, that s exactly what projects like <a
+services, or multiple hosts/nodes. In fact, that's exactly what projects like <a
 href="https://github.com/nateware/redis-objects">redis-objects</a> exist to make
 easy.
 
@@ -84,13 +84,13 @@ with <code>ZREMRANGEBYRANK</code>.
 
 ### And then..
 
-What s your favorite use of <code>ZSET</code>?
+What's your favorite use of <code>ZSET</code>?
 
 ---
 
 ### Note on Documentation
 
-One thing that s really neat about the redis documentation is that they describe
+One thing that's really neat about the redis documentation is that they describe
 the runtime of each method right at the top. Check out the <a
 href="http://redis.io/commands#sorted_set">ZSET documentation</a> for more
 details!

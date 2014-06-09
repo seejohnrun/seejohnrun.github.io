@@ -60,7 +60,7 @@ $red: #990000 body {
   background: darken($red, 20%);
 }
 {% endhighlight %}
-<h2 id="theres_more">There s more</h2>
+<h2 id="theres_more">There's more</h2>
 Mixins are a great feature of Sass also, and its absolutely worth checking out more on <a href="http://sass-lang.com/">sass-lang.com</a>.
 
 When you re done there, your next stop should be at the site for <a href="http://compass-style.org/">Compass</a>. Compass builds on top of Sass to add more helpers to Sass.

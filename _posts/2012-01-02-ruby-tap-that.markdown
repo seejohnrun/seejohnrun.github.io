@@ -120,4 +120,4 @@ arr
 [1, 2, 3].tap(&:reverse!)
 {% endhighlight %}
 <h1 id="conclusion">Conclusion:</h1>
-Just like anything else, don't overuse <code>#tap</code> just for kicks. Its tempting to tap everything, but it definitely can make code less readable if used inappropriately. That being said, its a great addition to a Rubyist s sugar toolkit. Give it a shot!
+Just like anything else, don't overuse <code>#tap</code> just for kicks. Its tempting to tap everything, but it definitely can make code less readable if used inappropriately. That being said, its a great addition to a Rubyist's sugar toolkit. Give it a shot!

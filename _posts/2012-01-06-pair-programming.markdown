@@ -22,7 +22,7 @@ I ve spent the past four days paired, and am hooked   I figured it d be useful t
 	<li>When one person hits a lull, or has a tasty sandwich, the other person can take over</li>
 	<li>The exposure of shitty, lazily-written code is higher, so neither or you will write it to avoid embarrassment</li>
 	<li>A lot of times when working alone, you ll force your solution to work - when paired, the mental cost of a change in strategy is much lower</li>
-	<li>Pointing out to each other new patterns and tips increases everyone s productivity and knowledge</li>
+	<li>Pointing out to each other new patterns and tips increases everyone's productivity and knowledge</li>
 </ul>
 <div><strong>How?</strong></div>
 I don't subscribe to the one-keyboard idea, but rather two monitors (mirrored) and two keyboards, hooked into the same computer - sitting next to each other. The setup worked really well, and I found that it was easy to settle into a rhythm where each of us would type and throw ideas back and forth. We all use <code>vim</code> as an editor, so switching back and forth is painless.

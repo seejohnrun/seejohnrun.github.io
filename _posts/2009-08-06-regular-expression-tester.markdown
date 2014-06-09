@@ -16,7 +16,7 @@ Today that software is:
 
 RegexPal offers the perfect simplicity for everything I need with regular
 expressions, and I most definitely consider myself a regex power user. Large
-portions of Zinkk Linguist Engine s liberty software employ regular expressions.
+portions of Zinkk Linguist Engine's liberty software employ regular expressions.
 I use RegexPal exclusively to test my expressions for wholeness and proper
 selection before they re tested or deployed in place.
 

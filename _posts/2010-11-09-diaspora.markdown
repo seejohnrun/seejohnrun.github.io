@@ -15,7 +15,7 @@ The only problem is that it wasn't as much a <em>project</em> as it was a bunch
 few math nerds mistakenly getting really good timing. They got a huge amount of
 press coverage (New York Times, Computerworld, Wired, Washington Post, etc), not
 because their project was interesting, but because at the time there was a lot
-of buzz around problems with Facebook s privacy settings. Newsmakers weren t
+of buzz around problems with Facebook's privacy settings. Newsmakers weren t
 looking for _the_ answer, they were just looking for someone they could
 highlight as a potential competitor.
 
@@ -24,7 +24,7 @@ guys were presented with a massive opportunity. They had the eyes they needed,
 and enough funding to at least work for 6 months and develop their product.
 
 On September 15th, the developers of Diaspora announced on their blog a
-developer s release of the project, along with some screen shots and source
+developer's release of the project, along with some screen shots and source
 code. There was another post on September 27th, and nothing (nothing) since. The
 code is disappointing, and I keep thinking about how much of a wasted
 opportunity there was there. If you re _ever_ given an opportunity like

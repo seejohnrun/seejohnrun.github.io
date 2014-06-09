@@ -15,7 +15,7 @@ meta:
 ---
 I ve been doing a bit of Io development in my spare time, and I wanted to bring forward a feature that really makes me happy.
 
-The feature is called  futures  and here s how it works:
+The feature is called  futures  and here's how it works:
 
 <pre>
 val := futureSend(
@@ -35,5 +35,5 @@ If you re looking for a similar behavior other languages:
 <ul>
 	<li><a href="http://moonbase.rydia.net/software/lazy.rb/">lazy.rb</a> in Ruby</li>
 	<li><a href="http://docs.python.org/dev/library/concurrent.futures.html">Future</a> in Python</li>
-	<li>Google  Javascript Futures  as there s an entire discussion to be had about the best way to implement these.</li>
+	<li>Google  Javascript Futures  as there's an entire discussion to be had about the best way to implement these.</li>
 </ul>

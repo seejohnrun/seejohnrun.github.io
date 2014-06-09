@@ -14,7 +14,7 @@ meta:
   dsq_thread_id: '603307559'
   _yoast_wpseo_linkdex: '0'
 ---
-Let s have some fun with JavaScript! First, we ll define a <code>Person</code>:
+Let's have some fun with JavaScript! First, we ll define a <code>Person</code>:
 
 {% highlight js %}
 var Person = function () { };
