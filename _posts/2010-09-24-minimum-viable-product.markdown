@@ -51,4 +51,4 @@ the features you _know_ are central to the concept of your product first.
 
 Minimum Viable Products are no excuse to not think through your ideas. Just
 shoving shit out the door might eventually land you on a luck product, but if
-that's how you work - you won t be in business for long.
+that's how you work - you won't be in business for long.

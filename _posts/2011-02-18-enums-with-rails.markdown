@@ -27,7 +27,7 @@ Most major databases have support for enumerable types (read: <a href="http://ww
 <strong>Complications</strong>
 <ul>
 	<li>It may make your life a bit harder if you re switching databases, but worst case you can just not run the migration in databases that don t support it.</li>
-	<li>If you use ENUMs in a field, when its used to represent a new <code>type</code>, or mixed into new models - you need to modify the ENUM in a migration to contain the new value. You need to be particularly careful in your test environment, since schema.rb will load these ENUMs as strings and thus they won t fail on trying to insert a value not in the ENUM.</li>
+	<li>If you use ENUMs in a field, when its used to represent a new <code>type</code>, or mixed into new models - you need to modify the ENUM in a migration to contain the new value. You need to be particularly careful in your test environment, since schema.rb will load these ENUMs as strings and thus they won't fail on trying to insert a value not in the ENUM.</li>
 </ul>
 <div><strong>How?</strong></div>
 This sample migration should give you a good idea on how to approach the move in MySQL. Note that MySQL blocks while running <code>ALTER</code> statements, so I combine multiple changes into single calls.

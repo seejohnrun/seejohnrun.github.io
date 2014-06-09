@@ -14,7 +14,7 @@ meta:
   _syntaxhighlighter_encoded: '1'
   dsq_thread_id: '416957679'
 ---
-<a href="http://en.wikipedia.org/wiki/Universally_unique_identifier">UUIDs</a> (Universally unique identifiers) are really neat as IDs, and they allow you to have the ID of a model before it is even saved and guarantee that it won t be fail insertion due to the ID being taken already. They re also a full class type in <a href="http://www.postgresql.org/docs/8.3/static/datatype-uuid.html">PostgreSQL</a> which is even more badass because it will handle the storage part, meaning you don t have the drag on performance that would come along if you had just placed the UUID in a varchar (or equivelent).
+<a href="http://en.wikipedia.org/wiki/Universally_unique_identifier">UUIDs</a> (Universally unique identifiers) are really neat as IDs, and they allow you to have the ID of a model before it is even saved and guarantee that it won't be fail insertion due to the ID being taken already. They re also a full class type in <a href="http://www.postgresql.org/docs/8.3/static/datatype-uuid.html">PostgreSQL</a> which is even more badass because it will handle the storage part, meaning you don t have the drag on performance that would come along if you had just placed the UUID in a varchar (or equivelent).
 
 When you try to use UUIDs with Rails, things fall apart with
 `#find_in_batches` because its implementation abuses value comparisons
