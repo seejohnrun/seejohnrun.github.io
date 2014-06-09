@@ -19,11 +19,10 @@ inspired by their 2 for 1 sale, I bought one as well. I hadn't had a Red Bull in
 a long time, but I thought on this particular night that it would boost my
 productivity, so I went for it.
 
-John Bellone drank all of the Red bulls, and then drank mine. I said  Did you
-just drink my Red Bull? , and he replied (as if planned)  I didn't know you got
-one . Oh, you knew  you knew. Now he seems to somehow have the idea in his head
-that __I__ owe __him__ a Red Bull. This is completely
-off base and holds no truth.
+John Bellone drank all of the Red bulls, and then drank mine. I said "Did you
+just drink my Red Bull?", and he replied (as if planned) "I didn't know you got
+one". Oh, you knew... you knew. Now he seems to somehow have the idea in his head
+that __I__ owe __him__ a Red Bull. This is completely off base and holds no truth.
 
 Adding insult to injury as he often does, JB spitefully ate the last of my
 Salt & Vinegar potato chips two nights ago.

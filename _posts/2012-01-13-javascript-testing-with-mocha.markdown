@@ -79,7 +79,7 @@ it('should test something', function(done) {
 
 By passing a function (<code>done</code>) into the test, you can track the end of the callback. If it hasn't come back <code>done</code> or failed an assertion in a certain time (default 2000 ms), the test fails.
 
-This definitely feels much more natural, and the same mechanism is available in<code>beforeEach</code>, <code>afterEach</code>, etc.
+This definitely feels much more natural, and the same mechanism is available in <code>beforeEach</code>, <code>afterEach</code>, etc.
 
 Mocha supports a lot of different reporter styles, several paradigms including suites (TDD) and describe/it (BDD) styles, and has a pluggable assertion system (so you can use <a href="https://github.com/visionmedia/should.js">should.js</a>, <a href="http://chaijs.com/">chaijs</a>, etc).
 

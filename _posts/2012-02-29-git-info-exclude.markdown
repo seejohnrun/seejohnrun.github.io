@@ -22,6 +22,6 @@ There is another type of file you'll commonly want to ignore though, and these f
 	<li><code>emacs</code> swap files <code>~*</code> or <code>.#*</code></li>
 	<li>files like <code>nbproject.xml</code> for Netbeans, or equivelant for other environments</li>
 </ul>
-We don't want these in <code>.gitignore</code>, since they are not specific to development with this <em>project</em>, but rather with your specific environment. They shouldn't crowd up<code>.gitignore</code> for people that don't have those byproducts in their environment.
+We don't want these in <code>.gitignore</code>, since they are not specific to development with this <em>project</em>, but rather with your specific environment. They shouldn't crowd up <code>.gitignore</code> for people that don't have those byproducts in their environment.
 
 Luckily, there's another file - <code>.git/info/exclude</code> for these types of patterns / files. It works very similarly, but doesn't get checked in. Use it for any byproducts your environment leaves behind that have nothing to do with your project or its build process.

@@ -41,4 +41,4 @@ You can use:
 $ lunchy start postgres
 {% endhighlight %}
 
-Also, when using <code>lunchy</code>, I prefer to never run the <code>launchctl -w load</code> (which will make things restart on system load) anything, but only do the <code>cp</code> of the Homebrew instructions. If you've already got things set to <code>-w</code>, you can set them back with<code>launchctl -w unload</code> on each plist in <code>~/Library/LaunchAgents</code>.
+Also, when using <code>lunchy</code>, I prefer to never run the <code>launchctl -w load</code> (which will make things restart on system load) anything, but only do the <code>cp</code> of the Homebrew instructions. If you've already got things set to <code>-w</code>, you can set them back with <code>launchctl -w unload</code> on each plist in <code>~/Library/LaunchAgents</code>.

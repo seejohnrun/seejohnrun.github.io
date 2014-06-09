@@ -21,7 +21,7 @@ Further down the line, our tweets got more and more behind the time that they we
 
 I thought about it for a while, and the day before it was supposed to go into production I ended up pulling it. I had a cool idea for how to solve the problem all in one shot. The idea revolves around <a href="http://dev.twitter.com/pages/user_streams">Twitter User Streams</a> which are meant to feel all activity a client would need to know about a user. All of the tweets, updates on who they're following or unfollowing, etc.
 
-We set up an account, followed all of our accounts with it, and then turned on the stream. Now we had a stream that had all of the tweets coming in, from every account we cared about. Every time that a site is added or changes its twitter handle, we just<em>follow</em> or <em>unfollow</em> that user with this account. It works beautifully, and it'll go into production next week.
+We set up an account, followed all of our accounts with it, and then turned on the stream. Now we had a stream that had all of the tweets coming in, from every account we cared about. Every time that a site is added or changes its twitter handle, we just <em>follow</em> or <em>unfollow</em> that user with this account. It works beautifully, and it'll go into production next week.
 
 <hr />
 

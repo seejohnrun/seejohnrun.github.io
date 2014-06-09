@@ -34,7 +34,7 @@ Everyone has their own perfect setup, their perfect <code>PS1</code> prompt, the
 
 Its a pain to configure that setup everywhere. That's why I store my dotfiles on <a href="https://github.com/seejohnrun/dotfiles">github</a>. It takes a bit to set up, but once you have it - it is super convenient.
 
-A lot of people are versioning their entire <code>/home/:user</code> directory, but that seems like way overkill, and a complete misuse of public repositories. What I do is clone that repository into <code>~/.dotfiles</code>, and then use symlinks to bring the shared copies into<code>~</code>. I symlink every file or directory that I want my special copy of onto that machine:
+A lot of people are versioning their entire <code>/home/:user</code> directory, but that seems like way overkill, and a complete misuse of public repositories. What I do is clone that repository into <code>~/.dotfiles</code>, and then use symlinks to bring the shared copies into <code>~</code>. I symlink every file or directory that I want my special copy of onto that machine:
 
 {% highlight bash %}
 $ ln -s ~/.dotfiles/.vimrc ~/.vimrc

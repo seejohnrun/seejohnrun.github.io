@@ -22,7 +22,7 @@ There are a lot of times in our applications where a field in our database can o
 </ol>
 The most commontly used type for these columns is <code>varchar</code>, and a lot of projects I've seen don't even make use of <code>limit</code>s. It would be nice if we could store them in a type that didn't require so much performance and storage overhead.
 
-Most major databases have support for enumerable types (read: <a href="http://www.postgresql.org/docs/8.3/static/functions-enum.html">PostgreSQL</a>,<a href="http://dev.mysql.com/doc/refman/5.0/en/enum.html">MySQL</a>), and at <a href="http://patch.com/">Patch</a> we've switched out a lot of our columns like the above for MySQL ENUMs. The best part from the Rails side, is that you don't have to change<em>anything</em> at all in your code to swap a varchar out for an ENUM. When we made the switch, we saw a nice boost in performance (numbers coming soon) - particularly on joins that involved those columns.
+Most major databases have support for enumerable types (read: <a href="http://www.postgresql.org/docs/8.3/static/functions-enum.html">PostgreSQL</a>,<a href="http://dev.mysql.com/doc/refman/5.0/en/enum.html">MySQL</a>), and at <a href="http://patch.com/">Patch</a> we've switched out a lot of our columns like the above for MySQL ENUMs. The best part from the Rails side, is that you don't have to change <em>anything</em> at all in your code to swap a varchar out for an ENUM. When we made the switch, we saw a nice boost in performance (numbers coming soon) - particularly on joins that involved those columns.
 
 <strong>Complications</strong>
 <ul>

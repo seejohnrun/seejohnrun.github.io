@@ -21,7 +21,7 @@ When I do use <code>grep</code>, I want it to behave a lot like <code>ack</code>
 $ grep -Rin --color=auto &quot;search_thing&quot; dir1 dir2 .. dirN
 {% endhighlight %}
 
-That's a lot of typing. Luckily, <code>grep</code> supports an environment variable called<code>GREP_OPTIONS</code>. Stick something like this in your <code>bash_profile</code>:
+That's a lot of typing. Luckily, <code>grep</code> supports an environment variable called <code>GREP_OPTIONS</code>. Stick something like this in your <code>bash_profile</code>:
 <div>
 <pre><code>export GREP_OPTIONS='--color=auto -R -i -n' </code></pre>
 </div>

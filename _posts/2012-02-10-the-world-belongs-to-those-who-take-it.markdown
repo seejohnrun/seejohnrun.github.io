@@ -17,6 +17,6 @@ Well..
 	<li>A lot of people even have good ideas.</li>
 	<li>A lot of people work late hours.</li>
 </ul>
-But the reality is that most people do these things so that they can comfort<em>themselves</em>   in saying they did everything they could to succeed. Its easy to play failures down to bad luck, or bad timing.
+But the reality is that most people do these things so that they can comfort <em>themselves</em>   in saying they did everything they could to succeed. Its easy to play failures down to bad luck, or bad timing.
 
 The reality is that the winners are the winners because they want it so bad they take it   every time.
