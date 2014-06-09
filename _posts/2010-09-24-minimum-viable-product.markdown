@@ -42,7 +42,7 @@ creating things your users don't want.
 
 The feature set of the MVP is the toughest part. We often get into this issue
 where as we go through a project, we record on a piece of paper all the things
-we haven t done - things (we say) we need for launch. If this list gets really
+we haven't done - things (we say) we need for launch. If this list gets really
 long, it becomes a weight. With every item you add to the list, the less likely
 it is that the project will be completed. Keep your lists short, and build out
 the features you _know_ are central to the concept of your product first.

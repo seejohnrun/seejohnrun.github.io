@@ -12,7 +12,7 @@ tags:
 
 Back in August, I flew down to Austin to speak at the <a href="http://www.lonestarrubyconf.com/">Lone Star Ruby Conference</a> about a Ruby library I wrote for handling recurring dates (you can find my slides at the bottom of <a href="http://seejohnrun.github.com/ice_cube">this page</a>).
 
-Imagine you have a date rule like  The second and last fridays of every month . This is going to make some really messy slow code. You shouldn t have to solve this problem. In IceCube, the code would look like:
+Imagine you have a date rule like  The second and last fridays of every month . This is going to make some really messy slow code. You shouldn't have to solve this problem. In IceCube, the code would look like:
 
 ``` ruby
 rule = Rule.monthly.day_of_week(:friday => [2, -1])

@@ -19,7 +19,7 @@ This whole <a href="http://tvnz.co.nz/national-news/police-complete-megaupload-m
 
 Some bullet thoughts:
 
-* If Hollywood movies could be half as entertaining as this story is, they wouldn t need to send the FBI around arresting people and using chested money to force censoring legislation via bribes to protect their material. Its obvious that their business model is not compatible with their product anymore. Adapt or die.
+* If Hollywood movies could be half as entertaining as this story is, they wouldn't need to send the FBI around arresting people and using chested money to force censoring legislation via bribes to protect their material. Its obvious that their business model is not compatible with their product anymore. Adapt or die.
 * How many people are living out  Swordfish  right now like this?
 * 15 Mercedes Benz? 15?
 

@@ -18,7 +18,7 @@ not to be confused with
 
 There are some great additions in this new library that make the syntax of form
 validation not clutter your controllers. The one thing I wanted that the library
-didn t come with, was a way to easily test regular expressions against fields
+didn't come with, was a way to easily test regular expressions against fields
 without cluttering the controller, or ruining my internationalization features.
 
 Ideally, what we re aiming for is:

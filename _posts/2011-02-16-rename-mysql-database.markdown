@@ -13,7 +13,7 @@ tags:
 
 For integrity reasons, MySQL no longer has a `RENAME DATABASE`
 command. I ran into an issue in my development environment recently where I
-needed to rename a database. It wasn t particularly complex, but was a massive
+needed to rename a database. It wasn't particularly complex, but was a massive
 amount of data (~20G). Reading around a bit, a lot of people recommend dumping
 your data out using `mysqldump` and then re-importing into a new
 database. That can be really slow on large databases, but if you re using InnoDB

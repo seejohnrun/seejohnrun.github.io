@@ -12,7 +12,7 @@ meta:
   _edit_last: '1'
   dsq_thread_id: '529746338'
 ---
-In the past I ve tried to ignore all of the really smart people that think pair programming is a useful (if not vital) strategy. I ve watched talks on it, I ve seen all types of pairing stations, I ve listened to numerous people iterate the benefits   but never until this week did I actually give it a real try. I guess I dismissed it as a fad, and didn t think it was for me.
+In the past I ve tried to ignore all of the really smart people that think pair programming is a useful (if not vital) strategy. I ve watched talks on it, I ve seen all types of pairing stations, I ve listened to numerous people iterate the benefits   but never until this week did I actually give it a real try. I guess I dismissed it as a fad, and didn't think it was for me.
 
 I ve spent the past four days paired, and am hooked   I figured it d be useful to write my own list of why pairing is amazing.
 
@@ -27,4 +27,4 @@ I ve spent the past four days paired, and am hooked   I figured it d be useful t
 <div><strong>How?</strong></div>
 I don't subscribe to the one-keyboard idea, but rather two monitors (mirrored) and two keyboards, hooked into the same computer - sitting next to each other. The setup worked really well, and I found that it was easy to settle into a rhythm where each of us would type and throw ideas back and forth. We all use <code>vim</code> as an editor, so switching back and forth is painless.
 
-You should definitely give it a shot if you haven t already. My days have gone by faster, been more productive, enjoyable, and full of new things.
+You should definitely give it a shot if you haven't already. My days have gone by faster, been more productive, enjoyable, and full of new things.

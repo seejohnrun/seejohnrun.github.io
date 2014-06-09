@@ -44,6 +44,6 @@ $ ...
 
 I use these across machines, so when I do things like apply patches to ~/.vim files or change my PS1, I can just run a <code>git pull</code> to update it everywhere.
 
-It d also be really easy to write up a few scripts that just run through the symlinks I typically like on MacOS, Linux, etc. I haven t gone that far, but <code>-f</code> would allow you to write the symlinks regardless of whether they exist so you could make updates painless.
+It d also be really easy to write up a few scripts that just run through the symlinks I typically like on MacOS, Linux, etc. I haven't gone that far, but <code>-f</code> would allow you to write the symlinks regardless of whether they exist so you could make updates painless.
 
 This also makes it really easy to share with people that like parts of my setup, and vice versa. That s all!

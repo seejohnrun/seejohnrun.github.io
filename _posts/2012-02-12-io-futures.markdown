@@ -27,7 +27,7 @@ val println
 
 When <code>futureSend</code> gets activated, it spins off a co-routine with the message passed to <code>futureSend</code> and starts working on it.
 
-When the value returned from <code>futureSend</code> is actually used   the operation blocks until the message has completed (if it hasn t already), and then <code>val</code> becomes the return value of the message.
+When the value returned from <code>futureSend</code> is actually used   the operation blocks until the message has completed (if it hasn't already), and then <code>val</code> becomes the return value of the message.
 
 Its a very clean way to handle joining because they re totally transparent, meaning that <code>val</code> may as well have been activated serially.
 

@@ -44,7 +44,7 @@ it('should test something', function() {
 });
 {% endhighlight %}
 
-This approach lasted for a bit (and can still be used in Jasmine), but as programmers it just didn t feel right   there just had to be a better way. The next step Jasmine took to keep track of those callbacks involved two methods called <code>runs</code> and <code>waitsFor</code>, which share functional scope with each other. Here s how you would write the above test using them:
+This approach lasted for a bit (and can still be used in Jasmine), but as programmers it just didn't feel right   there just had to be a better way. The next step Jasmine took to keep track of those callbacks involved two methods called <code>runs</code> and <code>waitsFor</code>, which share functional scope with each other. Here s how you would write the above test using them:
 
 {% highlight js %}
 it('should test something', function() {
@@ -77,7 +77,7 @@ it('should test something', function(done) {
 });
 {% endhighlight %}
 
-By passing a function (<code>done</code>) into the test, you can track the end of the callback. If it hasn t come back <code>done</code> or failed an assertion in a certain time (default 2000 ms), the test fails.
+By passing a function (<code>done</code>) into the test, you can track the end of the callback. If it hasn't come back <code>done</code> or failed an assertion in a certain time (default 2000 ms), the test fails.
 
 This definitely feels much more natural, and the same mechanism is available in<code>beforeEach</code>, <code>afterEach</code>, etc.
 

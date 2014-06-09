@@ -26,7 +26,7 @@ There are a few different ways that we typically go about handling real-time (or
 	<li>(Long) Polling - the traditional way to accomplish this type of communication, in which the client continually checks the server for updates.</li>
 	<li>Flash <a href="http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/flash/net/XMLSocket.html">XMLSocket</a> - Can communicate with JavaScript to provide WebSocket-like functionality through Flash.</li>
 </ul>
-Even where they re supported   problems like unexpected disconnects can make working with them really tricky. Also, having to implement all of them just shouldn t be something you have to worry about. SocketIO aims to abstract all of that (and more - like the ability to do broadcasts easily) away into a beautiful library.
+Even where they re supported   problems like unexpected disconnects can make working with them really tricky. Also, having to implement all of them just shouldn't be something you have to worry about. SocketIO aims to abstract all of that (and more - like the ability to do broadcasts easily) away into a beautiful library.
 
 It works <em>extremely</em> well, and makes this type of communication really fun and easy. A client that absorbs data coming from the server is as quick as:
 

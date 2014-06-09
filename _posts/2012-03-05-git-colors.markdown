@@ -13,7 +13,7 @@ meta:
   dsq_thread_id: '600185630'
   _yoast_wpseo_linkdex: '0'
 ---
-I can t live without colors in Git, but I see a lot of people using Git without them on. They make it really nice to view diffs in a console   as well as beautifying status and branch lists.
+I can't live without colors in Git, but I see a lot of people using Git without them on. They make it really nice to view diffs in a console   as well as beautifying status and branch lists.
 
 To enable them (with the defaults) just run:
 

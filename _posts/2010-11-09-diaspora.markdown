@@ -11,7 +11,7 @@ tags:
 I don't think I m at all alone in saying that Diaspora was (and continues to be)
 a huge disappointment. A team of NYU students and their project aimed at
 decentralizing Facebook raise over $100,000 on [Kickstarter](http://kickstarter.com).
-The only problem is that it wasn t as much a <em>project</em> as it was a bunch
+The only problem is that it wasn't as much a <em>project</em> as it was a bunch
 few math nerds mistakenly getting really good timing. They got a huge amount of
 press coverage (New York Times, Computerworld, Wired, Washington Post, etc), not
 because their project was interesting, but because at the time there was a lot
@@ -19,7 +19,7 @@ of buzz around problems with Facebook s privacy settings. Newsmakers weren t
 looking for _the_ answer, they were just looking for someone they could
 highlight as a potential competitor.
 
-Even though the papers weren t hedging bets on who could replace Facebook, these
+Even though the papers weren't hedging bets on who could replace Facebook, these
 guys were presented with a massive opportunity. They had the eyes they needed,
 and enough funding to at least work for 6 months and develop their product.
 

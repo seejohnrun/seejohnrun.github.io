@@ -15,4 +15,4 @@ I m at <a href="http://www.ciconf.com/">CICONF  12</a> today in London. A lot of
 
 I spoke this morning about testing in CI, and if you d like the slides, they re at <a href="https://github.com/seejohnrun/talks">seejohnrun/talks</a> on GitHub.
 
-Looking forward to the event tonight   come over and introduce yourself if I haven t met you yet!
+Looking forward to the event tonight   come over and introduce yourself if I haven't met you yet!
