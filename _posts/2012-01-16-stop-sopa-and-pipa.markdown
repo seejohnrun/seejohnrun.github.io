@@ -21,6 +21,6 @@ You can get involved! Here are a few ways:
 <ul>
 	<li><a href="http://sopatrack.com/">SOPA Track</a> is a mobile website by <a href="https://twitter.com/randyme">Randy Meech</a> for looking up your Representatives and Senators and tracking how they vote.</li>
 	<li>This Wednesday, there will be an emergency meeting of the <em>NY Tech Meetup</em>outside of the offices of Chuck Shumer and Kirsten Gillibrand   (<a href="http://nytm.org/sos/">more details here</a>). I ll be there are you should be too!</li>
-	<li>If you don t think your Senators or Representatives use the Internet, write them letters and tell them what the Internet is.</li>
+	<li>If you don't think your Senators or Representatives use the Internet, write them letters and tell them what the Internet is.</li>
 </ul>
 </div>

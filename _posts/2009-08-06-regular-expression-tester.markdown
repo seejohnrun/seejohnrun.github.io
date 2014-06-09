@@ -8,8 +8,8 @@ tags:
 - Tools
 ---
 
-I don t do this too often, but once in a blue moon I feel it crucial to thank
-someone I don t know for a piece of software they wrote and made available.
+I don't do this too often, but once in a blue moon I feel it crucial to thank
+someone I don't know for a piece of software they wrote and made available.
 Today that software is:
 
 [RegexPal](http://regexpal.com/)

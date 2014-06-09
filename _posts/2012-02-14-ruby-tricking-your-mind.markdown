@@ -13,7 +13,7 @@ meta:
   _syntaxhighlighter_encoded: '1'
   dsq_thread_id: '576442448'
 ---
-Sometimes when programming, we trick our minds into thinking something is somethat it clearly isn t. One really good case of this is Ruby <code>||=</code>. We like to think of it as  set something if it doesn t have a value  - which is certainly not what it means (and not what it should mean).
+Sometimes when programming, we trick our minds into thinking something is somethat it clearly isn t. One really good case of this is Ruby <code>||=</code>. We like to think of it as  set something if it doesn't have a value  - which is certainly not what it means (and not what it should mean).
 
 Slow your mind down and consider this gotcha that will getcha every time:
 

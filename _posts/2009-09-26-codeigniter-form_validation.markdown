@@ -32,7 +32,7 @@ $register[] = array(
 );
 ```
 
-The hope is that we don t need to write anything extra in our controller, and we
+The hope is that we don't need to write anything extra in our controller, and we
 can use this from anywhere. I started with a function, that I thought did pretty
 well:
 

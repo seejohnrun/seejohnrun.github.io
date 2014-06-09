@@ -64,7 +64,7 @@ it('should test something', function() {
 });
 {% endhighlight %}
 
-If you don t think that s out of control, you can use your imagination to see how it looks with multiple asynchronous calls after one another, but it definitely works exactly as we d hope.
+If you don't think that s out of control, you can use your imagination to see how it looks with multiple asynchronous calls after one another, but it definitely works exactly as we d hope.
 
 <a href="http://visionmedia.github.com/mocha/">Mocha</a> is another framework, and mine of choice recently. It takes a different approach to testing async:
 

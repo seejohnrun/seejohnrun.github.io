@@ -89,4 +89,4 @@ numbers.each(function(x) {
 
 <strong>So, why the question mark in the title?</strong>
 
-This doesn t doesn t speak well to Haml, but Sass makes changing CSS <strong>much, much</strong> easier. CoffeeScript changes Javascript syntax to make it more likable, but its still just Javascript. We probably shouldn t be adding entire steps to our process just to make things prettier and lint-free, but on the other hand - its so nice :)
+This doesn't speak well to Haml, but Sass makes changing CSS <strong>much, much</strong> easier. CoffeeScript changes Javascript syntax to make it more likable, but its still just Javascript. We probably shouldn t be adding entire steps to our process just to make things prettier and lint-free, but on the other hand - its so nice :)

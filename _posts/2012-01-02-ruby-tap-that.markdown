@@ -64,7 +64,7 @@ arr.reverse # BEFORE
 arr.tap { |a| puts a }.reverse # AFTER
 {% endhighlight %}
 
-This isn t a great use, not only because it involves debugging your code solely by means of output (instead of a <code>debugger</code>), but also because <code>#tap</code> is so much cooler an idea than just a mechanism for inserting temporary code.
+This isn't a great use, not only because it involves debugging your code solely by means of output (instead of a <code>debugger</code>), but also because <code>#tap</code> is so much cooler an idea than just a mechanism for inserting temporary code.
 <h2 id="why_i_like_it">Why I like it:</h2>
 In additional to the tapping behavior described in the first section, here are some other uses I m seeing / using:
 
@@ -120,4 +120,4 @@ arr
 [1, 2, 3].tap(&:reverse!)
 {% endhighlight %}
 <h1 id="conclusion">Conclusion:</h1>
-Just like anything else, don t overuse <code>#tap</code> just for kicks. Its tempting to tap everything, but it definitely can make code less readable if used inappropriately. That being said, its a great addition to a Rubyist s sugar toolkit. Give it a shot!
+Just like anything else, don't overuse <code>#tap</code> just for kicks. Its tempting to tap everything, but it definitely can make code less readable if used inappropriately. That being said, its a great addition to a Rubyist s sugar toolkit. Give it a shot!

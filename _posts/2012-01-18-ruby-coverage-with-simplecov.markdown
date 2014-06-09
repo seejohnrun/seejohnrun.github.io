@@ -16,7 +16,7 @@ meta:
   _syntaxhighlighter_encoded: '1'
   dsq_thread_id: '544752816'
 ---
-I find it really useful to use a coverage tool when writing code. I don t depend on it, but I do like to see what percentage of lines are covered, so I can at least catch any glaring misses.
+I find it really useful to use a coverage tool when writing code. I don't depend on it, but I do like to see what percentage of lines are covered, so I can at least catch any glaring misses.
 
 In Ruby 1.8, we had <a href="https://github.com/relevance/rcov">rcov</a>, which was (and is) a really great tool. In Ruby 1.9, I ve been depending on <a href="https://github.com/colszowka/simplecov">SimpleCov</a>. I really enjoy their reporter interface, and the usage is very similar to rcov. In your <code>spec_helper</code>, before you include the thing you re testing, just start up SimpleCov. I prefer to write it like:
 
@@ -36,7 +36,7 @@ Some features I really like:
 <ul>
 	<li>Filtering is super easy</li>
 	<li>Grouping is a powerful way to segment files like models, controllers, into their own groups.</li>
-	<li>Merging results over time so that when you run a subset, you can merge them into the overall set from other subsets (so you don t end up with that weird situation where things look uncovered because they re covered in specs you re not currently running).</li>
+	<li>Merging results over time so that when you run a subset, you can merge them into the overall set from other subsets (so you don't end up with that weird situation where things look uncovered because they re covered in specs you re not currently running).</li>
 </ul>
 
 <hr />

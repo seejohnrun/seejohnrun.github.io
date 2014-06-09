@@ -20,7 +20,7 @@ If you use a mac, then you should be using <a href="http://mxcl.github.com/homeb
 
 What they recommend is to put load these scripts with something like <code>launchctl load</code>, which will keep the service up, and restart it each time your machine restarts.
 
-That s kind of annoying, since most of the time you don t need Postgres, mongodb, and Redis running in the background while you check your email.
+That s kind of annoying, since most of the time you don't need Postgres, mongodb, and Redis running in the background while you check your email.
 
 You can use <code>launchctl</code> directly to stop and start <code>launchd</code> services, but its kind of annoying, since you need to specify the full path of the <code>plist</code> file you want to control. I prefer to use a little Ruby gem called <a href="http://rubygems.org/gems/lunchy">lunchy</a> on my machines.
 
@@ -29,7 +29,7 @@ Its a nice wrapper around <code>launchctl</code> and the basic usage is:
 	<li><code>lunchy status</code> will show you what services are running</li>
 	<li><code>lunchy [stop/start] &lt;name&gt;</code> will start and stop a service by name</li>
 </ul>
-The cool part about <code>lunchy [stop/start]</code> is that you don t need to specify the full path, but can just specify a substring of the path. If only one is found, it will work with that service. So, instead of:
+The cool part about <code>lunchy [stop/start]</code> is that you don't need to specify the full path, but can just specify a substring of the path. If only one is found, it will work with that service. So, instead of:
 
 {% highlight bash %}
 $ launchctl load /Users/jcrepezzi/Library/LaunchAgents/org.postgresql.postgres.plist

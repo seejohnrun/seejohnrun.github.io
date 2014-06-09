@@ -14,4 +14,4 @@ I think its unhelpful and unhealthy to work on the same thing day in and day out
 
 There s a draw to a fresh slate, and there s a draw to a slate of your own.
 
-If you don t have a pet project, open source or otherwise   get one and keep programming fun.
+If you don't have a pet project, open source or otherwise   get one and keep programming fun.

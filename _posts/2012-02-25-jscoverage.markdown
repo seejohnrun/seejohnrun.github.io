@@ -16,7 +16,7 @@ meta:
   _wp_old_slug: js-coverage
   dsq_thread_id: '589030417'
 ---
-A coverage tool is something that I ve always wanted for my Node.js development. I certainly don t depend on one, but I like when a coverage tool can point out things I ve obviously missed tests for.
+A coverage tool is something that I ve always wanted for my Node.js development. I certainly don't depend on one, but I like when a coverage tool can point out things I ve obviously missed tests for.
 
 Tools like this are tough in Javascript, because our tracing ability is limited. Yesterday, though   two new test runners were added for mocha, my <a href="http://seejohncode.com/2012/01/13/javascript-testing-with-mocha">favorite JS testing framework</a>. They are <code>js-cov</code> and <code>html-cov</code>. They work really well, and you should definitely give them a look.
 

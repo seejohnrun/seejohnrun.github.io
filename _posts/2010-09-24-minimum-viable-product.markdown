@@ -36,7 +36,7 @@ model that you d imagine the full product to have. For the time up until your
 first additional feature, the MVP __is__ the product. People need
 to get away from the concept that the MVP is some quick, dirty hack to prove to
 investors the product is viable. Its not, its just a way to not work too hard
-creating things your users don t want.
+creating things your users don't want.
 
 ### When to stop building
 

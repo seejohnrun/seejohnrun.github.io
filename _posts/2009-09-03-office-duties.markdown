@@ -11,7 +11,7 @@ tags:
 By far my favorite part of programming is little scripts that perform functions
 that save people time. This convenient PHP script allows for rotation of office
 duties on a regular basis. Its quick and dirty, but it does its job well. It
-even works with any number of people/duties, they don t need to be one for one.
+even works with any number of people/duties, they don't need to be one for one.
 
 we start out with the data:
 

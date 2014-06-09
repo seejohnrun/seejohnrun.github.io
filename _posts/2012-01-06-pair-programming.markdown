@@ -25,6 +25,6 @@ I ve spent the past four days paired, and am hooked   I figured it d be useful t
 	<li>Pointing out to each other new patterns and tips increases everyone s productivity and knowledge</li>
 </ul>
 <div><strong>How?</strong></div>
-I don t subscribe to the one-keyboard idea, but rather two monitors (mirrored) and two keyboards, hooked into the same computer - sitting next to each other. The setup worked really well, and I found that it was easy to settle into a rhythm where each of us would type and throw ideas back and forth. We all use <code>vim</code> as an editor, so switching back and forth is painless.
+I don't subscribe to the one-keyboard idea, but rather two monitors (mirrored) and two keyboards, hooked into the same computer - sitting next to each other. The setup worked really well, and I found that it was easy to settle into a rhythm where each of us would type and throw ideas back and forth. We all use <code>vim</code> as an editor, so switching back and forth is painless.
 
 You should definitely give it a shot if you haven t already. My days have gone by faster, been more productive, enjoyable, and full of new things.

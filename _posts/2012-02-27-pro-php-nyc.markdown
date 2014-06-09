@@ -17,6 +17,6 @@ PHP has changed a lot recently, and deserves some respect. <a href="http://codef
 
 As of tonight, I m excited to say   you can sign up for <a href="http://meetup.com/pro-php">Pro PHP NYC</a> and get in on one.
 
-This isn t a typical PHP meetup group. This group is for people writing <em>real</em> web code in PHP. Not people giving it a crappy name with single-file spaghetti code, but real engineers.
+This isn't a typical PHP meetup group. This group is for people writing <em>real</em> web code in PHP. Not people giving it a crappy name with single-file spaghetti code, but real engineers.
 
 If this suits you, sign up   we ve got some amazing events coming up!

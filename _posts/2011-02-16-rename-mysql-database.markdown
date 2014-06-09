@@ -28,7 +28,7 @@ and the table and all of its content will move (without a slow copy).
 
 ---
 
-Given you don t have a bunch of extra triggers and things set up, this Ruby snippet will move everything for you:
+Given you don't have a bunch of extra triggers and things set up, this Ruby snippet will move everything for you:
 
 ``` ruby
 require 'rubygems'

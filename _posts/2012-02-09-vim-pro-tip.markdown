@@ -11,7 +11,7 @@ meta:
   _edit_last: '1'
   dsq_thread_id: '570508604'
 ---
-Another vim pro-tip today. This one is pretty basic, but if you don t know it, it can save you a whole bunch of typing.
+Another vim pro-tip today. This one is pretty basic, but if you don't know it, it can save you a whole bunch of typing.
 
 A lot of times, whether it be while testing, <code>grep</code>ing, or <code>ack</code>ing   you know the line you want to go to before you open a file.
 

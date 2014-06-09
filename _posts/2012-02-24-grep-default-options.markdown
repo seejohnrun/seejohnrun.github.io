@@ -15,7 +15,7 @@ meta:
 ---
 Like all of you, I use <code>grep</code> a lot to search through files. Actually, most of the time I use <a href="http://betterthangrep.com/">ack</a> instead. It provides some really friendly defaults for searching for occurrences recursively, and I think its interface is for the most part more natural to work with.
 
-When I do use <code>grep</code>, I want it to behave a lot like <code>ack</code> (without the default filters). By that, I mean that I want it to highlight the occurrences, I want line numbers, and I don t care case-sensitivity. So I use something like:
+When I do use <code>grep</code>, I want it to behave a lot like <code>ack</code> (without the default filters). By that, I mean that I want it to highlight the occurrences, I want line numbers, and I don't care case-sensitivity. So I use something like:
 
 {% highlight bash %}
 $ grep -Rin --color=auto &quot;search_thing&quot; dir1 dir2 .. dirN
@@ -31,7 +31,7 @@ And then you can use grep like:
 $ grep &quot;search_thing&quot; dir1 dir2 .. dirN
 {% endhighlight %}
 
-for your default behavior. Because I don t like the default red color of the highlight, I also throw in:
+for your default behavior. Because I don't like the default red color of the highlight, I also throw in:
 <div>
 <pre><code>export GREP_COLOR='0;93' </code></pre>
 </div>

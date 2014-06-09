@@ -25,4 +25,4 @@ We set up an account, followed all of our accounts with it, and then turned on t
 
 <hr />
 
-Next time you have a solution that s less than ideal - don t be afraid to throw it away for something better when you think of it, even if the original took some time to come to. This is <strong>development</strong>. :)
+Next time you have a solution that s less than ideal - don't be afraid to throw it away for something better when you think of it, even if the original took some time to come to. This is <strong>development</strong>. :)

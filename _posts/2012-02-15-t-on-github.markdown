@@ -13,8 +13,8 @@ tags:
 Every time that I show someone this, it looks like their head implodes, so I
 thought I d write this quick tip up here.
 
-On a GitHub project, hit `t` and start typing the name of a file. You don t have
-to start typing at the beginning, and you don t even have to type the letters in
+On a GitHub project, hit `t` and start typing the name of a file. You don't have
+to start typing at the beginning, and you don't even have to type the letters in
 order.
 
 You can navigate through the results using the up and down keys, and kit enter
