@@ -66,7 +66,7 @@ arr.tap { |a| puts a }.reverse # AFTER
 
 This isn't a great use, not only because it involves debugging your code solely by means of output (instead of a <code>debugger</code>), but also because <code>#tap</code> is so much cooler an idea than just a mechanism for inserting temporary code.
 <h2 id="why_i_like_it">Why I like it:</h2>
-In additional to the tapping behavior described in the first section, here are some other uses I m seeing / using:
+In additional to the tapping behavior described in the first section, here are some other uses I'm seeing / using:
 
 <strong>Assigning a property to an object</strong>
 

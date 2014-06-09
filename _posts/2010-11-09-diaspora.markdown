@@ -8,7 +8,7 @@ tags:
 - Thoughts
 ---
 
-I don't think I m at all alone in saying that Diaspora was (and continues to be)
+I don't think I'm at all alone in saying that Diaspora was (and continues to be)
 a huge disappointment. A team of NYU students and their project aimed at
 decentralizing Facebook raise over $100,000 on [Kickstarter](http://kickstarter.com).
 The only problem is that it wasn't as much a <em>project</em> as it was a bunch

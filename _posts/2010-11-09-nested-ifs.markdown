@@ -10,7 +10,7 @@ tags:
 - Thoughts
 ---
 
-Today I m going to rant a little bit about people going crazy with nested IF
+Today I'm going to rant a little bit about people going crazy with nested IF
 statements. Ruby programmers, you are especially guilty (and proud to be). Its
 not uncommon at all to see:
 

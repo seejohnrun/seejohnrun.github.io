@@ -11,7 +11,7 @@ meta:
 ---
 <div>
 
-As a developer, I m used to thinking a few steps ahead of problems. I think a lot of times this gets in our way, as we think of the many ways something will be used   over the practicality of making it work today.
+As a developer, I'm used to thinking a few steps ahead of problems. I think a lot of times this gets in our way, as we think of the many ways something will be used   over the practicality of making it work today.
 
 Always focus on today. Make what needs to work. Don't build adapters into everything you do, and try to overexpose public interfaces.
 

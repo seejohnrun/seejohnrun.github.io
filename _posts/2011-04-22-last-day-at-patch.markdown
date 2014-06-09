@@ -17,5 +17,5 @@ and I couldn't be prouder of the work that I've done. If anyone is
 looking for an fun place to work, that treats engineering and open-source as
 central values, _Patch_ is a perfect place to work.
 
-I can't say much _yet_ about where I m headed,
-but I m more excited than ever for what's to come.
+I can't say much _yet_ about where I'm headed,
+but I'm more excited than ever for what's to come.

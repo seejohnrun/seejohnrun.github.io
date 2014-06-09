@@ -9,7 +9,7 @@ tags:
 - php
 ---
 
-Hey ya'll! Today I m going to talk about a seemingly minor change I made to DB_result in
+Hey ya'll! Today I'm going to talk about a seemingly minor change I made to DB_result in
 [CodeIgniter Reactor](http://codeigniter.com/news/codeigniter_2.0.0_released/).
 This change will allow people to use their Models more intuitivel.
 

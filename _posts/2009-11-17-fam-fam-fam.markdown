@@ -10,7 +10,7 @@ meta:
   _edit_last: '1'
   dsq_thread_id: '379562800'
 ---
-I needed some flag icons for a project i m working on. I wanted the icons to follow ISO-3166 as not to miss any countries. I found a great resource on famfamfam.com
+I needed some flag icons for a project i'm working on. I wanted the icons to follow ISO-3166 as not to miss any countries. I found a great resource on famfamfam.com
 
 <a href="http://www.famfamfam.com/lab/icons/flags/">247 such icons in GIF and PNG formats</a>
 

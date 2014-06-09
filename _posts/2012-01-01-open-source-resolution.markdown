@@ -14,7 +14,7 @@ meta:
 ---
 Happy New Year!
 
-I m not too big on posts about resolutions, but I had a good one this year that I was hoping I could get some people to share with me. <strong>I will make a contribution to an open source project every day this year.</strong>
+I'm not too big on posts about resolutions, but I had a good one this year that I was hoping I could get some people to share with me. <strong>I will make a contribution to an open source project every day this year.</strong>
 
 Contributions don't always have to be time-consuming, and they don't even have to be code. Its a great thing to give back to the community, and be a part of something.
 

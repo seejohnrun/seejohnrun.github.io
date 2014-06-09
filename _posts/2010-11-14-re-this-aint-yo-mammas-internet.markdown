@@ -31,7 +31,7 @@ Facebook is making great strides (and amazingly successful strides) at transitio
 I d say at this point, most are investing purely in the direction of the trends.
 
 ### What is sum of it all? Where is all this stuff leading us? Social networking is surely not the terminus.
-Social networking is not the terminus. There never will be a terminus, just an ebb and flow with the occasional 100-foot-tall wave. Another one is headed, and I m more excited than anything.
+Social networking is not the terminus. There never will be a terminus, just an ebb and flow with the occasional 100-foot-tall wave. Another one is headed, and I'm more excited than anything.
 
 ---
 

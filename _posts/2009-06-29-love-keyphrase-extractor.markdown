@@ -13,7 +13,7 @@ tags:
 I've been doing a lot of research lately in an area that of great interest t
 me.. that is Automated Keyphrase extraction. There are many different methods
 commonly employed: TFxIDF, n-gram, thesaurus based, etc. Each of these is their
-own entire field and topic of discussion, but what I m introducing today is a
+own entire field and topic of discussion, but what I'm introducing today is a
 library I've been working on for combining as many of these methods as you d
 like to form a custom keyphrase extraction solution. Its called _Love_, and
 it will be seeing its first public code release in the next few weeks. Check

@@ -28,7 +28,7 @@ meta:
   _yoast_wpseo_opengraph-description: ''
   _yoast_wpseo_google-plus-description: ''
 ---
-I wrote a post a few days ago about a new change in CodeIgniter Reactor, which allows people to <a href="http://seejohncode.com/2011/02/12/codeigniter-model-instances">clean up their models</a>. Today I m going to go a bit further and talk about how we can use static context to really make our models awesome. Lets look at the same example as in the last post, but implemented a little differently:
+I wrote a post a few days ago about a new change in CodeIgniter Reactor, which allows people to <a href="http://seejohncode.com/2011/02/12/codeigniter-model-instances">clean up their models</a>. Today I'm going to go a bit further and talk about how we can use static context to really make our models awesome. Lets look at the same example as in the last post, but implemented a little differently:
 
 ``` php
 <?php

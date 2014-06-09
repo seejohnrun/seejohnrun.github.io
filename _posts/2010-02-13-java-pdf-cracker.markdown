@@ -12,7 +12,7 @@ tags:
 
 I had to open a PDF, so I spent the morning working on a basic PDF password
 cracker written in Java. I haven't encapsulated it in a command line tool yet
-(and I m not sure __I__ ever will), but it came out pretty neat.
+(and I'm not sure __I__ ever will), but it came out pretty neat.
 
 It started out simple enough:
 

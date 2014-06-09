@@ -17,7 +17,7 @@ meta:
   _syntaxhighlighter_encoded: '1'
   dsq_thread_id: '351130754'
 ---
-I m currently going through the same phase in my relationship with <a href="http://jashkenas.github.com/coffee-script/">CoffeeScript</a> that I went through a year ago with <a href="http://haml-lang.com/">Haml</a> and <a href="http://sass-lang.com/">Sass</a>. For those of you unfamiliar with CoffeeScript, its just a little syntax language that compiles directly to Javascript. Why would you want that? Well, let's look at Haml and Sass:
+I'm currently going through the same phase in my relationship with <a href="http://jashkenas.github.com/coffee-script/">CoffeeScript</a> that I went through a year ago with <a href="http://haml-lang.com/">Haml</a> and <a href="http://sass-lang.com/">Sass</a>. For those of you unfamiliar with CoffeeScript, its just a little syntax language that compiles directly to Javascript. Why would you want that? Well, let's look at Haml and Sass:
 
 <strong>Haml</strong>
 

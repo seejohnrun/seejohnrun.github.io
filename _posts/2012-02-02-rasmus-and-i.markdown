@@ -24,7 +24,7 @@ The thing that really struck me was his description of how PHP wasn't really mad
 The problem is (as he laid out), you build this templating language, and then people say:  what is the harm of adding <code>if/else</code> . Once you oblige, everything breaks down:
 <ul>
 	<li>If we have <code>if/else</code>, why not add <code>switch</code> statements?</li>
-	<li>If we have <code>switch</code>, why are there no functions? I m constantly repeating things!</li>
+	<li>If we have <code>switch</code>, why are there no functions? I'm constantly repeating things!</li>
 	<li>If there are functions, why are there no classes? Other things have classes!</li>
 	<li>Where are closures?!? Namespaces!?</li>
 </ul>

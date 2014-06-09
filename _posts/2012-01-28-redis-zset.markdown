@@ -10,7 +10,7 @@ tags:
 ---
 
 For the past 2 years I've been all about [Redis](http://redis.io/),
-and something I m continually excited about is `ZSET`.
+and something I'm continually excited about is `ZSET`.
 
 It is a sorted set implementation built into Redis. Its super fast, flexible,
 and I use it all the time, probably sometimes just because its fun.
