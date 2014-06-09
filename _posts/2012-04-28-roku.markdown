@@ -1,0 +1,18 @@
+---
+layout: post
+title: Roku
+published: true
+all_set: true
+tags:
+- Thoughts
+---
+
+I got a Roku box a few days ago - to replace my Google TV in my living room.
+The Roku is definitely less powerful, can't browse the web quite as well - but
+has been pretty enjoyable.  For the things it does, the Roku outperforms.
+Netflix, Amazon Prime, and Hulu all felt pretty hacked into Google TV, but the
+Roku gives them a much more solid feel.
+
+TV is a pretty exciting space, looking forward to what's coming next - seems
+like it may be one of the next big battlegrounds as we head towards making
+computers even more ubiquitous.

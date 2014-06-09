@@ -1,0 +1,12 @@
+---
+layout: post
+published: true
+title: Streaks
+all_set: true
+tags:
+- Thoughts
+---
+
+Yesterday, my 124-day blogging and open-source coding streak came to an end.
+I'll continue to keep the same goals, and am sad to see it go - but hopefully
+we'll build it back up.

@@ -1,0 +1,18 @@
+---
+layout: post
+title: JSON IP
+tags:
+- ip
+- json
+- Tools
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  dsq_thread_id: '623336436'
+  _yoast_wpseo_linkdex: '0'
+---
+A lot of times, when I'm trying to get the IP address of a computer, I use a small site called <a href="http://jsonip.com/">jsonip.com</a>, which presents a nice (ad-free) JSON formatted IP address for viewing.
+
+You can use it programmatically obviously, and it even supports <a href="http://en.wikipedia.org/wiki/JSONP">JSONP</a> (see: <a href="http://jsonip.com/func">http://jsonip.com/func</a>) - but I find I use it more often for a clear, easy-to-read IP address site (which far surpasses the ad-loaded junk you'll find elsewhere).

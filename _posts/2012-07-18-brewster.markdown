@@ -1,0 +1,28 @@
+---
+layout: post
+title: Brewster
+all_set: true
+tags: brewster thoughts
+---
+
+For the past year and a half, I've been very quiet about a project I've been
+working on.  So much so that I haven't even said the name, actually.  But this
+past Thursday,
+[Brewster](https://www.brewster.com/) was finally made public. The reaction so
+far has been overwhelmingly positive, with write-ups all over the web from the
+[New York Times](http://bits.blogs.nytimes.com/2012/07/12/brewster-a-mobile-app-wants-to-transform-your-address-book/) to
+[Gizmodo](http://gizmodo.com/5926431/brewster-merge-all-your-contacts-from-every-medium-in-one-spot) and
+[AllThingsD](http://allthingsd.com/20120712/qa-behind-brewster-the-buzzy-new-modern-address-book/).
+
+Brewster is a personalized address book for iPhone.  It takes all of your
+contacts from the social networks you're part of and mixes them with contacts
+from more traditional places like your address book and your Google Contacts.
+It gives you an amazing unified view of the people you know, and how you know
+them.  You can search across all of your contacts, sort them into lists, and
+gain insight into how they're connected.
+
+If you haven't checked it out yet - head over to the website and
+[download the app today](https://www.brewster.com/)!
+
+* [Brewster on Twitter](http://https://twitter.com/brewsterapp)
+* [Brewster on Facebook](http://https://www.facebook.com/brewsterapp)

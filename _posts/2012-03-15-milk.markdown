@@ -1,0 +1,22 @@
+---
+layout: post
+title: Milk
+tags:
+- google
+- milk
+- Thoughts
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  dsq_thread_id: '612565486'
+  _yoast_wpseo_linkdex: '0'
+---
+Today it was announced that <a href="http://milkinc.com/">Milk</a> is going to be acquired by Google.  While I'm happy for the team, I can't help but feel a bit surprised at the acquisition.
+
+As recently as yesterday, I was remarking how much I liked their model of failing fast, and iterating quickly through ideas - spinning them off into businesses when they work.  I thought, like many, that shutting down <a href="http://www.oink.com/">Oink</a> was only the shedding of their first non-success.
+
+I'm holding out hope that this model can work, as while it may miss a few good successes (that other people will no-doubt try again), it doesn't waste time on products trying to force them to fit.  You can re-use components over time, and build amazing things until something sticks.
+
+Maybe they'll end up doing something similar inside of Google?

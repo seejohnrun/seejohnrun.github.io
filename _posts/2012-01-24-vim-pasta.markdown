@@ -1,0 +1,28 @@
+---
+layout: post
+title: ! 'Vim: vim-pasta'
+published: true
+all_set: true
+tags:
+- paste
+- Tools
+- vim
+- vim-pasta
+---
+
+Heyooo - Happy Taco Tuesday! I just ate a terrifying amount of tacos at our
+favo(u)rite local taco place. I feel pretty gross, but am not disgusted with
+myself enough to stop me from writing about a vim plugin named after pasta!
+
+[vim-pasta](https://github.com/sickill/vim-pasta), recently featured on
+[the changelog](http://thechangelog.com/post/15655273063/vim-pasta-smarter-context-aware-indented-pasting-for-vim),
+is another one of these plugins that I have around but don t even notice until
+I sit back and wonder why something just worked.
+
+__What is does__: it rebinds `p` and `P` in vim so that they indent at the
+correct level of indentation (even if you re at the `def` or `function` line
+of a method and hitting `p`, something I do _constantly_) for your current
+context.
+
+Install it today and see how it fits into your workflow. Also, if you haven't
+honored Taco Tuesday, you have a few hours left to meet your weekly commitment.

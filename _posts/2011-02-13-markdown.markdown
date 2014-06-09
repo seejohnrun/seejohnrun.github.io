@@ -1,0 +1,16 @@
+---
+layout: post
+title: Markdown is Pretty
+tags:
+- markdown
+- Thoughts
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  dsq_thread_id: '351227491'
+---
+First it was textile, then it was <a href="http://rdoc.sourceforge.net/doc/index.html">RDoc syntax</a>, but these days all of my README files are written in <a href="http://daringfireball.net/projects/markdown/">markdown</a>. I love markdown because (aside from links), I never really have to think about what the syntax is. I just write what i ve always written and its awesome.
+
+I just got finished converting <a href="http://www.seejohncode.com/">all of my blog posts</a> to Markdown and hosting them with<a href="https://github.com/mojombo/jekyll">Jekyll</a>. I m really excited about not using wordpress anymore to write little posts like this up.

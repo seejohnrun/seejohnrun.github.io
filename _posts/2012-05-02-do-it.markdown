@@ -1,0 +1,18 @@
+---
+layout: post
+published: true
+title: Do It.
+all_set: true
+tags:
+- Thoughts
+---
+
+The # of People who do nothing __is greater than__
+
+The # of People who make excuses to not do something __is greater than__
+
+The # of People who talk about doing something __is greater than__
+
+The # of People who attempt to do something __is greater than__
+
+The # of People who do something

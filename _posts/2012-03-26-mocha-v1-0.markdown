@@ -1,0 +1,21 @@
+---
+layout: post
+title: Mocha v1.0
+tags:
+- Code
+- javascript
+- mocha
+- nodejs
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  dsq_thread_id: '625423767'
+  _yoast_wpseo_linkdex: '0'
+---
+My favorite <a title="Javascript Testing with Mocha" href="http://www.seejohncode.com/2012/01/13/javascript-testing-with-mocha/">JavaScript testing framework</a>, Mocha - just hit <a href="http://tjholowaychuk.com/post/19843730724/mocha-1-0">v1.0</a> a few days ago.
+
+No breaking changes (exactly how I think a 1.0 should be), compiler support, some new reporters.  If you're using Mocha for JavaScript testing - time to upgrade.
+
+Great Job <a href="http://tjholowaychuk.com/">TJ</a>!

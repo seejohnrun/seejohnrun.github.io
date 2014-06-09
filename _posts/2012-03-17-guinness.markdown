@@ -1,0 +1,17 @@
+---
+layout: post
+title: Guinness
+tags:
+- beer
+- Thoughts
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  dsq_thread_id: '615942035'
+  _yoast_wpseo_linkdex: '0'
+---
+Happy St. Patrick's Day!  Hope everyone has an awesome day today :)
+
+![Makes you strong]({{ site.url }}/static/guinness.jpg)

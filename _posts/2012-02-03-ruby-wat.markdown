@@ -1,0 +1,78 @@
+---
+layout: post
+published: true
+title: ! 'Ruby: WAT?'
+all_set: true
+tags:
+- Code
+- ruby
+- wat
+---
+
+There s a really fun video that went around a few days ago called
+[Wat?](https://www.destroyallsoftware.com/talks/wat). If you haven t seen it
+yet, go do that now. I ll wait..
+
+---
+
+One of the examples I find really fun(ny) is this one from Ruby:
+
+``` ruby
+1.9.2 :001 > a
+NameError: undefined local variable or method `a' for main:Object
+  from (irb):1
+  from /usr/local/rvm/rubies/ruby-1.9.2-p290/bin/irb:16:in `<main>'
+1.9.2 :002 > a = a
+ => nil
+```
+
+Wat? :) Before I explain, let me do a few others I think are cool too (and are
+directly related). Each of these is executed in a fresh new IRB session. First,
+a simple one:
+
+``` ruby
+1.9.2 :001 > a = b
+NameError: undefined local variable or method `b' for main:Object
+  from (irb):1
+  from /usr/local/rvm/rubies/ruby-1.9.2-p290/bin/irb:16:in `<main>'
+1.9.2 :002 > a
+ => nil # Wat..
+```
+
+Another I like:
+
+``` ruby
+1.9.2 :001 > c = 1 if c == 1
+ => nil # WAT? No error?
+1.9.2p290 :002 > c => nil # Wat?
+```
+
+A meaningful variation on the previous one:
+
+``` ruby
+1.9.2 :001 > if c == 1; c = 1; end
+NameError: undefined local variable or method `c' for main:Object
+  from (irb):1
+  from /usr/local/rvm/rubies/ruby-1.9.2-p290/bin/irb:16:in `<main>'
+1.9.2p290 :002 > c
+ => nil # WAT?
+```
+
+And my personal favorite:
+
+```
+1.9.2 :001 > a = a.nil?
+ => true
+```
+
+---
+
+To explain, this is all due to how Ruby s parser tears things apart. It actually
+creates a variable on the left hand side of an assignment before it evaluates
+the right hand side. Probably will never affect you, but definitely cool to
+know!
+
+[Ripper](http://www.ruby-doc.org/stdlib-1.9.2/libdoc/ripper/rdoc/Ripper.html) is
+really fun to dig around in, especially when having syntax problems or (more
+geekily) wanting to know how the ASTs are put together. Another post on that
+soon!

@@ -1,0 +1,21 @@
+---
+layout: post
+title: WP Search 2
+published: true
+all_set: true
+tags:
+- Events
+- search
+- Tools
+- wordpress
+---
+
+A while back, <a href="http://codefury.net/">Kenny Katzgrau</a> approached me about building a Java Lucene backend for <a href="http://wordpress.org/extend/plugins/wpsearch/">WP Search</a>, the most badass Wordpress search plugin available anywhere. Along with the premium Java backend I was writing, Kenny rewrote the standard PHP version from the ground up, making it faster and more feature-rich. You can now even adjust boosts on individual fields from within the interface!
+
+In October, we <a href="http://codefury.net/2010/10/wpsearch-2-to-be-released-at-wordcamp-nyc/">released</a> and spoke about <em>WP Search</em> at <a href="http://2010.nyc.wordcamp.org/speakers/">WordCamp NYC 2010</a>. Our reaction so far has been great, and today we ve hit an amazing milestone. Our plugin, as of this writing, is <strong>installed on 1,000 websites</strong>.
+
+I m really glad everyone is enjoying <em>WP Search</em> as much as we enjoyed writing it. We ll continue to work to make the plugin easier to install and manage - while keeping your searches just as fast and relevant as they ve always been with <em>WP Search</em>
+
+<hr />
+
+<strong>Remember</strong> - if you have more than 10,000 posts - we have an amazing premium version which can handle up to 500,000 posts. Feel free to reach out to me at <a href="mailto:john.crepezzi@oconf.org">john@oconf.org</a>.
