@@ -4,27 +4,36 @@ layout: default
 
 <div class="home">
 
-  <h1>
-    <a href="/blog">Development Blog</a>
-    (<a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>)
-  </h1>
+  <article class="post-content">
 
-  <p>
-    My development blog is full of all kinds of things I find interesting.
-    I like to write about everything I'm currently doing &mdash; so it's some
-    good insight into where I've been, and where I'm headed. Recently:
-  </p>
+    <h3>
+      <a href="https://github.com/seejohnrun">John on GitHub</a>
+    </h3>
+
+    <p>Where I write some open source software</p>
+
+  </article>
 
   <br/>
 
-  {% for post in site.posts offset:0 limit:5 %}
-    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    ({{ post.date | date: "%b %-d, %Y" }})
+  <article class="post-content">
+    <h3>
+      <a href="/blog">Development Blog</a>
+      (<a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>)
+    </h3>
+
+    <p>Where I write about what I'm up to, most recently:</p>
+
+    {% for post in site.posts offset:0 limit:5 %}
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      ({{ post.date | date: "%b %-d, %Y" }})
+      <br/>
+    {% endfor %}
+
     <br/>
-  {% endfor %}
 
-  <br/>
+    <a class="post-link" href="/blog">read more...</a>
 
-  <a class="post-link" href="/blog">read more...</a>
+  </article>
 
 </div>
