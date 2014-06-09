@@ -17,22 +17,26 @@ Like all of you, I use <code>grep</code> a lot to search through files. Actually
 
 When I do use <code>grep</code>, I want it to behave a lot like <code>ack</code> (without the default filters). By that, I mean that I want it to highlight the occurrences, I want line numbers, and I don't care case-sensitivity. So I use something like:
 
-{% highlight bash %}
-$ grep -Rin --color=auto &quot;search_thing&quot; dir1 dir2 .. dirN
-{% endhighlight %}
+``` bash
+$ grep -Rin --color=auto "search_thing" dir1 dir2 .. dirN
+```
 
 That's a lot of typing. Luckily, <code>grep</code> supports an environment variable called <code>GREP_OPTIONS</code>. Stick something like this in your <code>bash_profile</code>:
-<div>
-<pre><code>export GREP_OPTIONS='--color=auto -R -i -n' </code></pre>
-</div>
+
+```
+export GREP_OPTIONS='--color=auto -R -i -n'
+```
+
 And then you can use grep like:
 
-{% highlight bash %}
-$ grep &quot;search_thing&quot; dir1 dir2 .. dirN
-{% endhighlight %}
+``` bash
+$ grep "search_thing" dir1 dir2 .. dirN
+```
 
 for your default behavior. Because I don't like the default red color of the highlight, I also throw in:
-<div>
-<pre><code>export GREP_COLOR='0;93' </code></pre>
-</div>
+
+```
+export GREP_COLOR='0;93'
+```
+
 to change it to yellow. Enjoy!

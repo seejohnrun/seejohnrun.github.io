@@ -28,7 +28,7 @@ $ twitter setup
 Once you have it installed, you can tweet any time with:
 
 ``` bash
-$ twitter tweet &quot;hello world!&quot;
+$ twitter tweet 'hello world!'
 ```
 
 Or pipe input directly in:

@@ -68,7 +68,7 @@ When you're done there, your next stop should be at the site for <a href="http:/
 My favorite is their <a href="http://compass-style.org/reference/compass/css3/">CSS3 Compatibility</a>, which provide cross-browser ways to use things like <code>opacity</code>. You use these helpers and inserted in their place is all of the various ways that browsers want to see those rules. No more googling  cross-browser opacity :
 
 {% highlight css %}
-@import &quot;compass/css3/opacity&quot;
+@import "compass/css3/opacity";
 .box {
   @include opacity(0.5);
 }

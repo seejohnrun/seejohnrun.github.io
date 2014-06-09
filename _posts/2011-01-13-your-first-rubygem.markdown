@@ -52,7 +52,7 @@ spec = Gem::Specification.new do |s|
   s.summary = 'example library for reversing strings'
   s.test_files = Dir.glob('spec/*.rb')
   s.version = Reverser::VERSION
-  s.rubyforge_project = &quot;reverser&quot; # what rubygems will call this gem
+  s.rubyforge_project = 'reverser' # what rubygems will call this gem
 end
 {% endhighlight %}
 

@@ -30,13 +30,13 @@ meta:
 ECMAScript 5 has support for String#trim, so next time you're trimming a String in Node (or in a web browser if you don't care about IE 8), you can trim it like:
 
 {% highlight js %}
-' hello '.trim(); // &quot;hello&quot;
+' hello '.trim(); // "hello"
 {% endhighlight %}
 
 instead of the dated regular expression approach:
 
 {% highlight js %}
-return this.replace(/^\s+|\s+$/g, &quot;&quot;);
+return this.replace(/^\s+|\s+$/g, "");
 {% endhighlight %}
 
 Please (please!) use these when you can.  I've got a really fun post coming up on ECMAScript 5 in more detail.  Stay tuned!

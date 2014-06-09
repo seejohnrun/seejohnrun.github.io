@@ -29,9 +29,9 @@ meta:
 ---
 Today I'm going to talk about a way to search git history.  Imagine you want to find out when a certain term was changed (as part of an add or remove) in your project.  The git log "pickaxe" operator is just for that.
 
-{% highlight bash %}
-$ git log -S &quot;some_string_you_know&quot;
-{% endhighlight %}
+``` bash
+$ git log -S "some_string_you_know"
+```
 
 will show you the git log history of only commits that contain the given string in an add or remove.
 

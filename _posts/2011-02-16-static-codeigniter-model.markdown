@@ -64,9 +64,9 @@ It's really nice because now the methods that should be static, are kept totally
 $this->load->model('user');
 $user = User::get_by_email_address('john.crepezzi@gmail.com');
 // print all of the comments by the user
-echo &quot;<h2>Comments by $user->name</h2>&quot;;
+echo "<h2>Comments by $user->name</h2>";
 foreach ($user->comments() as $comment) {
-  echo &quot;<p>$comment->body</p>&quot;;
+  echo "<p>$comment->body</p>";
 }
 ```
 

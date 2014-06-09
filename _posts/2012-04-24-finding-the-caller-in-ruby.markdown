@@ -16,7 +16,7 @@ element is a String like `"file:line in 'name'"`.  Here's an example:
 
 ``` ruby
 def actually_do_it
-  caller.join(&quot;\n&quot;)
+  caller.join("\n")
 end
 
 def do_it
