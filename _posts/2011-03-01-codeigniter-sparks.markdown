@@ -30,4 +30,4 @@ function index() {
 }
 ```
 
-We re really excited for what this means for sharing and versioning CI code, getting libraries you use commonly set up quickly, and discovering new packages other people have built. So if you re a CI developer, head over to <a href="http://getsparks.org/">http://getsparks.org/</a> and see what you can find (and contribute)!
+We're really excited for what this means for sharing and versioning CI code, getting libraries you use commonly set up quickly, and discovering new packages other people have built. So if you're a CI developer, head over to <a href="http://getsparks.org/">http://getsparks.org/</a> and see what you can find (and contribute)!

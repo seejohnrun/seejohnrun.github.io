@@ -27,5 +27,5 @@ On September 15th, the developers of Diaspora announced on their blog a
 developer's release of the project, along with some screen shots and source
 code. There was another post on September 27th, and nothing (nothing) since. The
 code is disappointing, and I keep thinking about how much of a wasted
-opportunity there was there. If you re _ever_ given an opportunity like
+opportunity there was there. If you're _ever_ given an opportunity like
 the one they were  do everything you need to do to own it.

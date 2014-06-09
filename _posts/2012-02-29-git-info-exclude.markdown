@@ -12,7 +12,7 @@ meta:
   _wp_old_slug: git-infoexclude
   dsq_thread_id: '594432111'
 ---
-If you re using <code>git</code>, you re sure to know about <code>.gitignore</code> files. They re used for ignoring certain files (or patterns) from git versioning.
+If you're using <code>git</code>, you're sure to know about <code>.gitignore</code> files. They're used for ignoring certain files (or patterns) from git versioning.
 
 This is really useful if you want to ignore byproducts of your code that shouldn't be checked in. Common candidates are <code>build/</code> or <code>dist/</code> directories   but its also very common to see things like <code>coverage/</code> or <code>*.gem</code> in this list.
 

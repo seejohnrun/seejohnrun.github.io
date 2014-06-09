@@ -66,12 +66,12 @@ module Reverser
 end
 {% endhighlight %}
 
-Now you re at a point where you can build the gem: <code>gem build reverser.gemspec</code>. That will produce <code>reverser-0.0.1.gem</code> and if you want to test out your new creation, you can install it with <code>gem install reverser-0.0.1.gem</code>.
+Now you're at a point where you can build the gem: <code>gem build reverser.gemspec</code>. That will produce <code>reverser-0.0.1.gem</code> and if you want to test out your new creation, you can install it with <code>gem install reverser-0.0.1.gem</code>.
 
 Now the matter of pushing it to RubyGems, a simple <code>gem push reverser-0.0.1.gem</code>will do the trick.
 
 <hr />
 
-Of course you re writing a bunch of tests along the way, so I definitely recommend reading <a href="http://seejohncode.com/2010/06/17/rake-rspec-gemcutter">an article I wrote about Rakefiles</a> and how I use them to automate the whole process and make sure my tests always get run and my tags always get created in git.
+Of course you're writing a bunch of tests along the way, so I definitely recommend reading <a href="http://seejohncode.com/2010/06/17/rake-rspec-gemcutter">an article I wrote about Rakefiles</a> and how I use them to automate the whole process and make sure my tests always get run and my tags always get created in git.
 
 Check out my <a href="https://github.com/seejohnrun">GitHub projects</a> for more examples, and get that gem out!

@@ -20,7 +20,7 @@ is another one of these plugins that I have around but don't even notice until
 I sit back and wonder why something just worked.
 
 __What is does__: it rebinds `p` and `P` in vim so that they indent at the
-correct level of indentation (even if you re at the `def` or `function` line
+correct level of indentation (even if you're at the `def` or `function` line
 of a method and hitting `p`, something I do _constantly_) for your current
 context.
 

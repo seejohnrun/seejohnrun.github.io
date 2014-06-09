@@ -12,4 +12,4 @@ meta:
 ---
 The best way to make sure that you keep up with something that you want to achieve is to make sure that it stays fun.
 
-We re all lucky that someone wants to pay us to do something we want to do anyway. Make sure it stays that way!
+We're all lucky that someone wants to pay us to do something we want to do anyway. Make sure it stays that way!

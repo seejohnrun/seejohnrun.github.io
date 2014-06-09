@@ -10,7 +10,7 @@ tags:
 ---
 
 A few weeks ago I stumped upon a collection of UI components called
-[UIKit](http://visionmedia.github.com/uikit/). They re really nice
+[UIKit](http://visionmedia.github.com/uikit/). They're really nice
 looking, are easy to style, and their interfaces are really well documented.
 
 The world could use more small, simple, elegant projects like this. Curation

@@ -18,7 +18,7 @@ RegexPal offers the perfect simplicity for everything I need with regular
 expressions, and I most definitely consider myself a regex power user. Large
 portions of Zinkk Linguist Engine's liberty software employ regular expressions.
 I use RegexPal exclusively to test my expressions for wholeness and proper
-selection before they re tested or deployed in place.
+selection before they're tested or deployed in place.
 
 So, thank you [Steven Levithan](http://blog.stevenlevithan.com/), for
 this perfect, elegant solution to my problem. You have made my life easy and

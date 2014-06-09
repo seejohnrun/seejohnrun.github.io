@@ -63,7 +63,7 @@ $red: #990000 body {
 <h2 id="theres_more">There's more</h2>
 Mixins are a great feature of Sass also, and its absolutely worth checking out more on <a href="http://sass-lang.com/">sass-lang.com</a>.
 
-When you re done there, your next stop should be at the site for <a href="http://compass-style.org/">Compass</a>. Compass builds on top of Sass to add more helpers to Sass.
+When you're done there, your next stop should be at the site for <a href="http://compass-style.org/">Compass</a>. Compass builds on top of Sass to add more helpers to Sass.
 
 My favorite is their <a href="http://compass-style.org/reference/compass/css3/">CSS3 Compatibility</a>, which provide cross-browser ways to use things like <code>opacity</code>. You use these helpers and inserted in their place is all of the various ways that browsers want to see those rules. No more googling  cross-browser opacity :
 

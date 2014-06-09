@@ -14,7 +14,7 @@ meta:
   dsq_thread_id: '600185685'
   _yoast_wpseo_linkdex: '0'
 ---
-If you re not using <a href="http://www.gnu.org/software/screen/">GNU Screen</a> in your day-to-day you re really missing out. It makes switching between different things you do in the console completely painless.
+If you're not using <a href="http://www.gnu.org/software/screen/">GNU Screen</a> in your day-to-day you're really missing out. It makes switching between different things you do in the console completely painless.
 
 One annoying thing with the version of <em>Screen</em> that ships with Mac OS, is that it doesn't support 256-colors or vertical splits.
 

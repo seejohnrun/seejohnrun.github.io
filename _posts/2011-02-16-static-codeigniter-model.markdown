@@ -57,7 +57,7 @@ class Comment extends CI_Model {
 }
 ```
 
-It's really nice because now the methods that should be static, are kept totally separate from the instance methods. This makes everything super clean, and we re able to abuse CodeIgniter's creation of a single instance (created via <code>$this->load</code>) to get the equivelant of a static initializer block (to do things like setting the value of the convenience <code>self::$db</code> variable). Check out how its used:
+It's really nice because now the methods that should be static, are kept totally separate from the instance methods. This makes everything super clean, and we're able to abuse CodeIgniter's creation of a single instance (created via <code>$this->load</code>) to get the equivelant of a static initializer block (to do things like setting the value of the convenience <code>self::$db</code> variable). Check out how its used:
 
 ``` php
 <?php

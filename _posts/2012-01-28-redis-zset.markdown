@@ -30,7 +30,7 @@ redis 127.0.0.1:6379> ZADD "ages" 30 "joe"
 (integer) 1
 ```
 
-Once they re in, we can query them in order. To get the entries out, ordered
+Once they're in, we can query them in order. To get the entries out, ordered
 by their rank:
 
 ```

@@ -16,7 +16,7 @@ command. I ran into an issue in my development environment recently where I
 needed to rename a database. It wasn't particularly complex, but was a massive
 amount of data (~20G). Reading around a bit, a lot of people recommend dumping
 your data out using `mysqldump` and then re-importing into a new
-database. That can be really slow on large databases, but if you re using InnoDB
+database. That can be really slow on large databases, but if you're using InnoDB
 you have another option. `RENAME TABLE` allows you to specify
 database names, so you can do things like:
 
