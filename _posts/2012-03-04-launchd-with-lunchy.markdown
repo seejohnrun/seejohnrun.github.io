@@ -26,8 +26,8 @@ You can use <code>launchctl</code> directly to stop and start <code>launchd</cod
 
 Its a nice wrapper around <code>launchctl</code> and the basic usage is:
 <ul>
-	<li><code>lunchy status</code> will show you what services are running</li>
-	<li><code>lunchy [stop/start] &lt;name&gt;</code> will start and stop a service by name</li>
+	<li>`lunchy status` will show you what services are running</li>
+	<li>`lunchy [stop/start] <name>` will start and stop a service by name</li>
 </ul>
 The cool part about <code>lunchy [stop/start]</code> is that you don't need to specify the full path, but can just specify a substring of the path. If only one is found, it will work with that service. So, instead of:
 

@@ -27,5 +27,5 @@ gem 'autodoc'
 you can specify a path as an argument to `gem` like:
 
 ``` ruby
-gem 'autodoc', :path =&gt; '/Users/john/Development/autodoc'
+gem 'autodoc', :path => '/Users/john/Development/autodoc'
 ```

@@ -55,7 +55,11 @@ var other = require(libpath + '/other');
 The name of the environment variable should be something unique.  The reason for a unique name is that if you using something like "COV" as the environment variable name, you'll end up also loading jscoverage'ed versions of other libraries you have as dependencies, and they'll cloud up your coverage reports.
 
 Now we can run the tests with:
-<pre>YOUR_LIBRARY_NAME_COV=1 mocha -R html-cov &gt; coverage.html</pre>
+
+``` bash
+$ YOUR_LIBRARY_NAME_COV=1 mocha -R html-cov > coverage.html
+```
+
 And the coverage.html file will contain our coverage report
 <h2>Step 3: Using a Makefile</h2>
 All of this typing will get annoying pretty fast, and for that I use a Makefile.  Here's what it should look like:
@@ -66,7 +70,7 @@ test:
 
 coverage:
  jscoverage --no-highlight lib lib-cov
- YOUR_LIBRARY_NAME_COV=1 mocha -R html-cov &gt; coverage.html
+ YOUR_LIBRARY_NAME_COV=1 mocha -R html-cov > coverage.html
  rm -rf lib-cov
 
 .PHONY: test

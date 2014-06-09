@@ -17,5 +17,5 @@ expect to wait an average of 5 minutes for a bus.  It always takes longer.
 The problem with the above scenario is that since the bus comes roughly every
 ten minutes, there are times when the bus takes longer than that, and times when
 it takes less time.  When you go down at a random time, you are more likely to
-end up going down during one of the &gt;10 minute periods (because there is more
+end up going down during one of the >10 minute periods (because there is more
 time to land in).

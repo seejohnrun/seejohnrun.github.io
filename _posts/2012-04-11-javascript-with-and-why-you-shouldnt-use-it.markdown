@@ -15,7 +15,7 @@ Imagine you have a few things that you are calling on the same object:
 
 ``` js
 var obj = { person: { name: 'john', age: 25 } };
-if (person.obj.age &gt; 20) {
+if (person.obj.age > 20) {
   console.log(person.obj.name);
 }
 ```
@@ -25,7 +25,7 @@ You can rewrite this using `with` like so:
 ``` js
 var obj = { person: { name: 'john', age: 25 } };
 with(obj.person) {
-  if (age &gt; 20) {
+  if (age > 20) {
     console.log(name);
   }
 }
@@ -40,7 +40,7 @@ I'd rather see this code written in the shorter form:
 ``` js
 var obj = { person: { name: 'john', age: 25 } };
 var person = obj.person;
-if (person.age &gt; 20) {
+if (person.age > 20) {
   console.log(person.name);
 }
 ```
