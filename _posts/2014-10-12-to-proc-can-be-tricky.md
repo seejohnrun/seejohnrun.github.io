@@ -51,6 +51,33 @@ error is that although `method_to_use` being protected is fine from the block in
 call.  Since `Symbol` doesn't have access to protected methods on `Something`,
 you get an error.
 
+We can prove this to ourselves by running the same test against `Symbol`, like
+so:
+
+``` ruby
+class Symbol
+
+  def test1
+    [:one, :two].each { |s| s.method_to_use }
+  end
+
+  def test2
+    [:one, :two].each(&:method_to_use)
+  end
+
+  protected
+
+  def method_to_use
+    puts 'used!'
+  end
+
+end
+```
+
+No errors from `(:sym).test1` or `(:sym).test2` :)
+
+---
+
 Another fun thing to look at here, which is pretty confusing is the values for
 `caller` in `method_to_use`.
 
