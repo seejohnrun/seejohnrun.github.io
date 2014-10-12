@@ -57,7 +57,8 @@ Another fun thing to look at here, which is pretty confusing is the values for
 In `#test1`, here's `caller` (as you'd expect):
 
 ``` ruby
-["do.rb:3:in `block in test1'", "do.rb:3:in `each'", "do.rb:3:in `test1'", "do.rb:15:in `<main>'"]
+["do.rb:3:in `block in test1'", "do.rb:3:in `each'",
+ "do.rb:3:in `test1'", "do.rb:15:in `<main>'"]
 ```
 
 But `caller` in `#test2` tells a different story (one devoid of `Symbol#to_proc`):
