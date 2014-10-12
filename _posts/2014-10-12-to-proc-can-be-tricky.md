@@ -44,7 +44,7 @@ class Something
 end
 ```
 
-These should be identical, but `Something.new.test1` will word perfectly fine,
+These should be identical, but `Something.new.test1` will work perfectly fine,
 while `Something.new.test2` will raise a `NoMethodError`!  The reason for the
 error is that although `method_to_use` being protected is fine from the block in
 `#test1`, passing through `Symbol#to_proc` in `#test2` changes the context of the
