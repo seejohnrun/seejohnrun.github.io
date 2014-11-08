@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ruby: Breware Return in Blocks
+title: 'Ruby: Breware Return in Blocks'
 published: true
 tags:
 - Ruby
