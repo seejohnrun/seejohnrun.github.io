@@ -23,7 +23,8 @@ Here's a motivational sample of the output we'll be getting to:
 
 <h2>Step 1: Installing JSCoverage and Mocha</h2>
 If you're on a machine with <a href="http://mxcl.github.com/homebrew/">Homebrew</a> installed, getting this set up will be as easy as:
-<pre>$ brew install jscoverage</pre>
+<pre>$ brew tap homebrew/boneyard
+$ brew install jscoverage</pre>
 There's also an apt package for you lucky linux folks:
 <pre>$ sudo apt-get install jscoverage</pre>
 If you don't have either of these, you'll be building it yourself.  Which is really easy too:
