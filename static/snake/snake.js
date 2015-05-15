@@ -72,7 +72,7 @@ $(function () {
     length: START_LENGTH,
 
     collisionFrom: function (fromWho) {
-      this.board.end('you ran into ' + fromWho === this ? 'yourself' : 'another snake');
+      this.board.end('you ran into ' + (fromWho === this ? 'yourself' : 'another snake'));
     },
 
     stop: function () {
