@@ -33,7 +33,7 @@
     }
   };
 
-  document.addEventListener('click', function (e) {
+  document.addEventListener('touchstart', function (e) {
     if (e.target.dataset.flub) {
       search_elements_within(e.pageX, e.pageY, 100, e.target);
     }
