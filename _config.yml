@@ -6,5 +6,4 @@ baseurl: ""
 url: ""
 
 # Build settings
-markdown: redcarpet
 permalink: pretty
