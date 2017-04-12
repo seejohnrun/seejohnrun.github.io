@@ -9,15 +9,32 @@ layout: default
     <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}</p>
   </header>
 
-  <div class="social">
-    Like this post?
-    <a href="https://twitter.com/intent/tweet">Tweet</a> or
-    <a href="https://twitter.com/seejohnrun"> Follow</a> on Twitter
-  </div>
+  <aside class="social">
+    <a class="twitter-share-button" href="https://twitter.com/intent/tweet">Tweet</a>
+    <a class="twitter-follow-button" href="https://twitter.com/seejohnrun"> Follow</a>
+  </aside>
 
   <article class="post-content">
     {{ content }}
   </article>
+
+  <link rel="me" href="https://twitter.com/seejohnrun">
+  <script>window.twttr = (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+      t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
+
+    t._e = [];
+    t.ready = function(f) {
+      t._e.push(f);
+    };
+
+    return t;
+  }(document, "script", "twitter-wjs"));</script>
 
 </div>
 

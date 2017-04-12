@@ -404,12 +404,3 @@ a:visited { color: #205caa; }
     margin: 0 0 15px; }
 
 }
-
-.social {
-  background: #eee;
-  padding: 10px;
-}
-
-.social a, .social a:visited {
-  color: #2a7ae2;
-}
